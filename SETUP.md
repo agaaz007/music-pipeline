@@ -16,12 +16,18 @@ state/    what has been downloaded, judged, and spent, from the home directory
 `repo/.env` contains the Jev API key. Treat this bundle as a secret: move it
 over AirDrop, a USB disk or an encrypted archive, not email or Slack.
 
-Not included, because they are large and separable:
+`cloud_scores/` holds the 232 scores already downloaded. At 20 downloads per
+account per day that cache represents roughly twelve days of quota, so it
+travels with the repo; the pipeline skips any score already present there.
+Restore it before collecting:
 
-- `~/Library/Application Support/MuseScore/MuseScore4/cloud_scores/` — 57 MB of
-  downloaded `.mscz`. Copy it if you want to avoid re-spending downloads on
-  scores already fetched; the pipeline skips anything present there.
-- `~/Documents/MuseScore4/Scores/` — 28 MB of exported MIDI, the dataset itself.
+```bash
+cp -R cloud_scores/* ~/Library/Application\ Support/MuseScore/MuseScore4/cloud_scores/
+```
+
+Not included: `~/Documents/MuseScore4/Scores/` (28 MB of exported MIDI). It is
+the pipeline's output and is re-derivable for free from the cache above with
+`uv run python -m musescore_midi.pipeline convert`.
 
 ## 2. Install on the new Mac
 
