@@ -1,0 +1,21 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.DS_Store
+artifacts/
+*.egg-info/
+
+dist/
+
+# MuseScore collection pipeline: transient run artefacts
+team/logs/
+team/browser.lease
+team/batch.txt
+*_batch.txt
+go*.txt
+one.txt
+elec_long.txt
+retry.txt
+picks.txt
