@@ -13,6 +13,12 @@ dist/
 team/logs/
 team/browser.lease
 team/batch.txt
+team/probe.txt
+team/accounts.json
+team/accounts_spent.json
+team/scout_cursor.json
+fetch_*.log
+delivery/candidates.json
 *_batch.txt
 go*.txt
 one.txt

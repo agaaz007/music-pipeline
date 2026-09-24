@@ -1,0 +1,4 @@
+[
+ {"login": "first@example.com", "chrome_profile": "Profile 1", "uid": 100000001},
+ {"login": "second@example.com", "chrome_profile": "Profile 2", "uid": 100000002}
+]

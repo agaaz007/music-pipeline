@@ -54,8 +54,15 @@ def neutral_name(stem):
 
 
 def strip_xattrs(path):
-    """Remove macOS extended attributes, which can record download origin."""
-    subprocess.run(["xattr", "-c", str(path)], capture_output=True)
+    """Remove macOS extended attributes, which can record download origin.
+
+    Other systems have no `xattr` tool; a freshly written file there carries
+    no download-origin record, so there is nothing to strip.
+    """
+    try:
+        subprocess.run(["xattr", "-c", str(path)], capture_output=True)
+    except OSError:
+        pass
 
 
 def scrub_file(src, dst):

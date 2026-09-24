@@ -16,9 +16,6 @@ from musescore_midi.team import LOGS, browser_lease, log, write_state
 
 POOL = Path(__file__).resolve().parent / "pool.json"
 BATCH = Path(__file__).resolve().parent / "batch.txt"
-CLOUD = Path.home() / "Library/Application Support/MuseScore/MuseScore4/cloud_scores"
-OUT = Path.home() / "Documents/MuseScore4/Scores"
-SYNTH = set(range(80, 104)) | {4, 5, 38, 39, 50, 51, 54, 62, 63, 118, 119}
 
 
 def load_env():
@@ -32,6 +29,13 @@ def load_env():
             continue
         key, _, value = line.partition("=")
         os.environ.setdefault(key.strip(), value.strip().strip('"').strip("'"))
+
+
+# Paths come from musescore_midi.config, which reads the environment at import,
+# so the same code runs on macOS and Windows.
+load_env()
+from musescore_midi.config import CLOUD_SCORES as CLOUD  # noqa: E402
+from musescore_midi.config import OUTPUT_DIR as OUT  # noqa: E402
 
 
 def held():
@@ -67,8 +71,12 @@ def next_batch(size):
         pool = json.loads(POOL.read_text())
     except Exception:
         return []
-    rows = [c for c in pool if c["id"] not in have]
-    rows.sort(key=lambda c: (-(c.get("roles") or 0), -(c.get("seconds") or 0)))
+    from team.scout import roles
+    # Older pool entries predate the three-role filter; score them the same way
+    # so a download is never spent on a listing without drums, bass and synth.
+    rows = [c for c in pool if c["id"] not in have
+            and (c.get("roles") or roles(c.get("text") or "")) >= 3]
+    rows.sort(key=lambda c: -(c.get("seconds") or 0))
     return rows[:size]
 
 
@@ -97,10 +105,24 @@ def run(target_hours=10.0, batch=8):
         subprocess.run([sys.executable, "-m", "musescore_midi.pipeline", "convert"],
                        cwd=str(Path(__file__).resolve().parent.parent), check=False)
         gained = len(held()) - before
-        blocked = sum(1 for line in (LOGS / "fetcher.out").read_text().splitlines()[-60:]
-                      if "never became visible" in line)
+        tail = (LOGS / "fetcher.out").read_text(errors="replace").splitlines()[-60:]
+        blocked = sum(1 for line in tail if "never became visible" in line)
+        timeouts = sum(1 for line in tail if "handoff timed out" in line)
         dry = 0 if gained else dry + 1
-        log("fetcher", f"  landed {gained}" + (f" ({blocked} button-missing)" if blocked else ""))
+        log("fetcher", f"  landed {gained}" + (f" ({blocked} button-missing)" if blocked else "")
+            + (f" ({timeouts} handoff timeouts)" if timeouts else ""))
+        # Every click went through but nothing reached Studio: the browser's
+        # "Open MuseScore Studio?" prompt or a login mismatch. Retrying on
+        # this account only burns time.
+        # A hidden "Edit on desktop" button on most of a batch is the account's
+        # server-side cap; rotating now beats spending another batch proving it.
+        if blocked >= max(3, len(picks) // 2) and gained <= 1:
+            log("fetcher", "CAP REACHED - the handoff button is gone; rotate logins")
+            return
+        if not gained and timeouts >= 3:
+            log("fetcher", "HANDOFF BLOCKED - clicks land but Studio receives nothing; "
+                           "check the protocol prompt and that Studio's login matches")
+            return
         if dry >= 2:
             reason = ("CAP REACHED - the handoff button is gone; rotate logins"
                       if blocked else

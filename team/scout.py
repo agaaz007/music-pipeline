@@ -31,6 +31,30 @@ TERMS = ["future bass", "progressive house", "electro house", "dubstep", "trance
          "synthwave", "big room", "melodic dubstep", "hardstyle", "drum and bass",
          "edm", "electronic dance", "house music", "techno", "bass house",
          "deep house", "trap edm", "chiptune", "eurodance", "electro swing"]
+# Instrument browse pages filtered to the Electronic genre (genres=16). Text
+# search matches titles, so it surfaces wind-band covers of EDM songs; these
+# list scores by their instruments instead. Measured on page 1: 12 of 20 rows
+# pass the three-role filter here, against 0-2 for a text search.
+BROWSE = ["https://musescore.com/sheetmusic/synthesizer?genres=16",
+          "https://musescore.com/sheetmusic/bass-guitar?genres=16",
+          "https://musescore.com/sheetmusic/synthesizer"]
+BROWSE_PAGES = 40
+CURSOR = Path(__file__).resolve().parent / "scout_cursor.json"
+
+
+def crawl_plan():
+    """Browse pages first (interleaved, page by page), then text searches."""
+    from musescore_midi.search import search_urls
+    plan = [f"{base}&page={page}" if "?" in base else f"{base}?page={page}"
+            for page in range(1, BROWSE_PAGES + 1) for base in BROWSE]
+    return plan + search_urls(TERMS, 3)
+
+
+def load_cursor():
+    try:
+        return int(json.loads(CURSOR.read_text())["next"])
+    except Exception:
+        return 0
 
 def instruments(text):
     m = re.search(r"(?:Ensemble|Band|Orchestra|Solo|Group|Duet|Trio|Quartet|Quintet)\s+(.*)$", text)
@@ -55,25 +79,33 @@ def load_pool():
         return []
 
 def held_ids():
-    d = Path.home()/"Library/Application Support/MuseScore/MuseScore4/cloud_scores"
-    return {p.stem for p in d.glob("*.mscz")}
+    """Score IDs already downloaded here or listed as held by other devices."""
+    from musescore_midi.config import CLOUD_SCORES
+    ids = {p.stem for p in CLOUD_SCORES.glob("*.mscz")}
+    shared = Path(__file__).resolve().parent.parent / "handoff" / "held_score_ids.txt"
+    if shared.exists():
+        ids |= {line.strip() for line in shared.read_text().splitlines() if line.strip()}
+    return ids
 
 def run(rounds=99, per_round=3, min_ratio=0.4, min_parts=4):
     from jev_ultrafast import Agent
     from musescore_midi.discover import LISTING_JS, parse_candidates
     from musescore_midi.fetch import wait_for_page_ready
-    from musescore_midi.search import search_urls
 
     pool = {c["id"]: c for c in load_pool()}
-    term_i = 0
+    plan = crawl_plan()
+    cursor = load_cursor()
     for rnd in range(rounds):
+        if cursor >= len(plan):
+            log("scout", "crawl plan exhausted; starting over for new uploads")
+            cursor = 0
         have = held_ids()
         fresh = 0
         with browser_lease("scout"):
-            terms = TERMS[term_i % len(TERMS):][:1] or TERMS[:1]
-            term_i += 1
-            urls = search_urls(terms, per_round)
-            log("scout", f"round {rnd+1}: crawling {len(urls)} pages for {terms[0]!r}")
+            urls = plan[cursor:cursor + per_round]
+            cursor += len(urls)
+            CURSOR.write_text(json.dumps({"next": cursor}))
+            log("scout", f"round {rnd+1}: crawling {len(urls)} pages from {urls[0][:70]}")
             for url in urls:
                 try:
                     with Agent(url, "Do nothing; only reading.") as agent:

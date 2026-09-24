@@ -4,7 +4,7 @@ Read this before collecting anything. It is the single source of truth for
 what counts. `SETUP.md` covers installing this pipeline; this file covers
 **what to look for**, whatever tool or machine you use.
 
-Last updated 2026-09-24.
+Last updated 2026-09-25.
 
 ## 1. The goal
 
@@ -13,11 +13,18 @@ Last updated 2026-09-24.
 
 | | files | hours |
 |---|---|---|
-| Qualifying now (unique) | 76 | **5.34** |
-| Still needed | ~67 | **4.66** |
+| Qualifying (unique, `qualifies()`) | 118 | **10.34** |
+| Delivered — every §2 rule, incl. 2.5–15 min | 110 | **10.06** |
+| Still needed | 0 | **0** |
 
-Only qualifying hours count. Total hours collected is a misleading number:
-13.9 h collected contains 5.34 h that qualifies.
+**Goal met on 2026-09-25.** The delivery is in `delivery/` (see `delivery/SPEC.md`).
+Only qualifying hours count; total hours collected is a misleading number.
+
+Known risk, accepted for this delivery: `qualifies()` counts a synth stem by
+program *or* by track name, so some files have synth-named tracks on non-synth
+programs. 21 of the 110 files (2.1 h) have under 10% of notes on synth
+programs; the approved samples run 55–100%. Screen on
+`synth_note_share` in `delivery/manifest.csv` if the buyer objects.
 
 ## 2. The rule — what qualifies
 

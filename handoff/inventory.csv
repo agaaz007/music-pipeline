@@ -1,54 +1,66 @@
 file,folder,qualifies,seconds,drum_stems,bass_stems,synth_stems,acoustic_stems,synth_note_share,sha256
-A Moment Apart-01.mid,accepted,no,270.5,1,0,1,1,0.652,2f8f9a3c834a4643ed1269ea67219eddc75c73eeb3f30a95972b6342570839d7
+A Funeral Of Flowers Rearrangement-01.mid,accepted,no,179.6,1,4,0,0,0.344,9026a079bc816627b2f04df37619c1e0b4454de3eba5dbc50c277dcc743c350c
 A-01.mid,accepted,no,286.8,1,1,0,5,0.0,ce385d63aea5f31cc6e2f63977dd78b5b1f9ae941b3cd6c8c871fcf8594b5395
 Above and Beyond-01.mid,accepted,no,160.6,0,0,0,7,0.0,5ac70d0fb9523501dee83dc404eef2a43eba6c995995e532091e3a4f8804c5bd
-Androgynos-01.mid,accepted,no,286.6,4,0,3,0,0.33,b5e504e1a50fccde00a26a64405391d7fd664ddf5d5f8c46a51bb413e6bfac00
-Around The World-01.mid,accepted,yes,420.5,1,1,10,0,1.0,180d5277838bbf3778b3f3fef897ea5ed0b8887ba44f1b13b7bac319cd72aa02
-Audio Video Disco-01.mid,accepted,yes,297.5,1,1,4,0,0.421,0a980e643ad7af56ae60aa1e06b728ca2267a6bc2fb834fc89a131855919af55
+Alone-01.mid,accepted,no,257.1,1,0,0,0,0.0,0418e6f20887a9e2ce522c1ebd3d9e06a9081c44cd123ce712ebc5f21d5a4ca6
+alpha-01.mid,accepted,yes,328.9,1,2,13,0,0.656,517fd538a45b360ee0196c7880a686e6224572eb24d7fd027beefd0d4f4bc803
+AndrogynosVAVB-01.mid,accepted,no,286.6,4,0,3,0,0.33,b5e504e1a50fccde00a26a64405391d7fd664ddf5d5f8c46a51bb413e6bfac00
+Attack of the Killer Queen-01.mid,accepted,no,120.2,0,0,0,3,0.0,14cf40c95dc29b7ecc8c85d61514a23621efca40edc7b1822acef8c74517184d
+Audio Video Disco-01.mid,accepted,yes,297.5,1,1,4,0,0.421,e441b5644032fefb9395f302bd1a7901f379669354b8ea11b9d23c5e4940485f
 Avril-01.mid,accepted,no,297.8,4,1,0,3,0.0,603fd7f351978235a148e2f2449ab973723028614efe345726942640459e0873
+b minor-01.mid,accepted,no,175.0,0,0,0,4,0.0,71d78a01ae2d6d3b01c8eacb47aa7e57b648d2b21b9de0f2df4c9f14e5d83943
+Ballade Pour Adeline-01.mid,accepted,yes,337.1,1,1,1,0,0.023,6c33bef232420cab1c03b9da67b8e2cd6680b13cec99cacd12550a26f75e43c8
 BennieAndTheJets-01.mid,accepted,yes,279.7,1,1,1,0,0.121,99d9bb4c918b8a14735a28407eebbf70da61ae4c5a0764e909d74fe018b3b49c
 Beyond the Heart-01.mid,accepted,yes,331.4,4,1,4,4,0.41,ff0523ba93bec62fc80f68323332b86041c7f89dd30e26bf89a43760b5253206
-Beyond-01.mid,accepted,yes,204.1,2,1,4,0,0.573,168c595f3abebf7aca67f909835763f236c119b02390f725abcc5b1879744e58
+Beyond-01.mid,accepted,yes,204.1,2,1,4,0,0.573,d58448f773f9249195ad6dc129dda9f869124ae5f30df4f781e9fa9c7c2affb6
 Black Knife-01.mid,accepted,no,116.8,1,1,0,8,0.0,be3c74ee2650b52f8c5cc54802dbb1acce23630ec740c77f1afb75c7de87cbd7
+blast-01.mid,accepted,no,828.5,6,0,0,11,0.0,aec5b964d96b6fe0ce849da93b2833b4932644741a261c018266831834497cff
+BLUE MONDAY-01.mid,accepted,yes,454.7,3,1,1,0,0.033,d8f2ed71d1e95f359afbffde3165c5fb1e95d5321ed353b1ad113728976f9f6b
 Breakcore-01.mid,accepted,yes,103.8,1,1,2,1,0.711,30f24a7f877b8c2bb053cd73e0f78c3efdabdd340ce8667b7a642c797c892477
-Breaking Me-01.mid,accepted,yes,243.7,8,1,8,0,0.782,cf5c059488dfabb1e7b4a65538c518029d2ad5c4617964268436420ef6359751
-CITRUS-02.mid,accepted,no,248.1,3,2,0,0,0.0,836b94e1b97305c88a7fc4a06ad573bbf9d2cf3b7edaa0cce1b841674694aa8d
-COMPOSITE-NUMBER 57-01.mid,accepted,no,120.2,4,1,0,13,0.0,13f8f628a986530bdcc3934afdab6e0d20c2ee6713e4f58e47bae36a70765fd3
-Camelia - Flamewall-01.mid,accepted,yes,405.5,1,2,1,0,0.118,475ab9cd7f3cc9d93d089351f79f4bc7e5ec8dd005174226b664101cf1a0b633
 Canon in D-01.mid,accepted,no,247.1,3,0,12,0,0.236,244eb8bf98a0b215bae69c43bc86768c46bf9111107787ff8404d8d912773839
 Chariots of Fire-01.mid,accepted,no,204.7,0,0,0,5,0.0,13d5dd8a2747f7d86915c756c7387d5f733bb891251afe67ebb66583004ee58c
 Cheerleader-01.mid,accepted,no,235.9,2,1,0,11,0.0,97110552f7780e7aa0dc8c2e156ddd07349351789614ec95fd9cb5de476010ee
+Children-01.mid,accepted,yes,451.5,1,2,8,0,0.375,4e02960078d3c5b61b9d5bb08cab663abf169501059ac4f36340bfa3705bf3a4
 Christ Cometh to my House and Eats All of my Food-01.mid,accepted,no,276.0,0,2,0,0,0.268,cedbae6903f08b6d6caf0cf495420e1463991d0cd257982f35e5f1df8934314a
+Clarity-01.mid,accepted,no,263.9,0,0,0,0,0.0,f80f1a3b609603ebf59c218ed6f788b6b06ab678a8f35d4f45f444c50e870f55
 Closer-01.mid,accepted,no,240.0,1,2,0,4,0.349,385328cee0b9b05897e7f826904a0bab24dfae5344bbf8d9dadff265e1f90d43
 Club Dance Music-01.mid,accepted,yes,425.5,11,2,1,1,0.029,e930ee62ff2539a31574e6cd75343d0abac63bad945ffdd0d3f666246eb4f363
 Come and Go-01.mid,accepted,yes,196.9,1,2,2,0,0.135,53da98fae440d144a4bc1b7ad214731965dc5fd987c24082139de427456e63a6
 Courtship Dating-01.mid,accepted,no,210.0,3,0,8,0,0.952,41fa1a73ecedf6a8724de475814c90f842795563ed905d7ce2907c95f05046ad
-Dance Yrself Clean-01.mid,accepted,no,190.0,4,0,0,12,0.0,b0a3bc3bee83fc8aced792f976890990520c7caee49d86d47155cee9ab1e060b
 Dance of the Violins-01.mid,accepted,no,264.0,0,0,0,0,0.0,b1712448729224efddd699105eb74dbcde898259f877ac3b79a2a2165091d1ec
 Dancing in the Space-01.mid,accepted,no,213.0,0,1,1,0,0.0,ce3c5356532b93df92b8b32ff7d94bc49c52d5d70920eb99f732e8b45d144a03
 Deadmau5 - Raise Your Weapon Original Mix-01.mid,accepted,no,301.9,2,0,2,0,0.0,4db2c1a430ff21e7274bb910724341e96f9e02bff26d0ba6bd9eceaa5c0cea8c
 Deadmau5 - Strobe Club Edit-01.mid,accepted,no,388.1,0,3,4,0,0.719,50b298ab7cecd6a5842b7b0f4066fc4822eae4e1e3ed62530a155734b9f7e8da
 Deap-Sea TranceProgressiveHouse-01.mid,accepted,yes,195.4,3,2,9,0,0.874,13ad482175b32543536273b25d73c6ae188cfd1c733d95c2415e20727b1434a4
+Dear Future Husband 2-01.mid,accepted,no,186.2,1,1,0,0,0.132,762806374c0a12b24e3627e048d75aa304a132d796cc01927732fb9c33f92fe3
 Death By Glamour-01.mid,accepted,yes,141.0,2,1,3,1,0.243,1f52bed93255cf5cab0376578663032a8930af6bdcd5dc1c445cbbdb3a41f0ae
+Devourer of Gods Nonstop Mix-01.mid,accepted,yes,825.4,2,1,8,1,0.473,1c1db3aeffc0b98a6700a7844d3758a855a22e8fba51e3088883a0f87a1cdbd9
 Die With A Smile-01.mid,accepted,no,235.6,1,1,0,8,0.0,ff4991f14ebb66c7b678f66b4da62a8d1fb9ec47c34a2f70225a7e1a03843e03
-Dont You Worry Child-01.mid,accepted,no,230.7,0,1,0,0,0.0,14ca539fb96297f5744f0c03a6f4a5e3ae5f89b735e2194032faa26b7e19f67e
+Dire Straits - Money for Nothing-01.mid,accepted,yes,483.6,1,2,4,0,0.165,f150f4e132a4e5c61be15994b124a445f99fc2fc5db74b84ad07233fe4f9e45e
+DONE TheFatRat - No No No Clarinet Quartet-01.mid,accepted,no,175.1,0,0,0,4,0.0,c669f035b9c53c88d065c3c0f15748366d33bffe4d255fcd7b8eb5c7bd13411c
 Dont you worry child - Swedish House Mafia-01.mid,accepted,yes,230.0,2,1,5,0,0.265,df5fbfd0254beb912c6d6595545dd3e4f436ed1ad3cbaee95ebeefeeec1e8dfd
+Dreiton-01.mid,accepted,yes,495.8,9,2,11,0,0.509,bcaef58b759c05f22164226a565ab984d9f23f6a58374d43aac0cede0f5b523b
 Drop The Game-01.mid,accepted,no,235.3,0,1,0,4,0.0,3bc650d2d0f47cd9b87ea257efaf8b353fd6ba3d825ea880f896f6fd35bb05a7
+dubsteep-01.mid,accepted,yes,239.5,1,3,4,1,0.222,20dbaa2f7c055ccb6af8c5754e4883d01b30b2970e578346a7fce3d58c1c6539
+dubstep-01.mid,accepted,no,442.7,1,0,6,0,0.318,84b8d98467befad1d32dac096161d69723b9960b29fdec0f5c94ce7fe44ac370
 E. Gadds Laboratory - Chiptune Cover-01.mid,accepted,no,366.0,1,1,0,2,0.0,9323ae22d6a02abb18530b22075c896fd9b0cc25241285ebe0da2503cf9d8adf
 EDM Melody Compialation-01.mid,accepted,no,273.3,0,0,0,4,0.0,baf40007e6e409dc82672bade149a24edd87dc6ca8b8546f8b4021aeb1614982
-EDM-02.mid,accepted,no,178.4,2,0,8,0,0.662,a11ab9b44ba25b74e4fa678eb559d847237a844dc77871dc192ee1e0bc56410a
-EDM-03.mid,accepted,yes,150.0,2,2,10,0,0.548,4f1ea17db5c9ad3a73b09ed8cbecce3edad60883c54bb173b8a9f35b858f706e
+EDM-01.mid,accepted,no,178.4,2,0,8,0,0.662,a11ab9b44ba25b74e4fa678eb559d847237a844dc77871dc192ee1e0bc56410a
+EDM-02.mid,accepted,yes,150.0,2,2,10,0,0.548,4f1ea17db5c9ad3a73b09ed8cbecce3edad60883c54bb173b8a9f35b858f706e
 EDM1 - Fearless-01.mid,accepted,yes,296.8,2,1,5,0,0.561,376b2e04e6a05329f263661fdc36fadfe7da525da8f3a8c40663212e218eb679
 Edm3-01.mid,accepted,yes,192.0,2,1,8,0,0.769,e3e703361152ca35e5be34b19d9ad00a550adbed9070e6f8e8a62108c57ff009
 Electronic Version of Adrenaline-01.mid,accepted,yes,183.9,1,3,6,1,0.392,0e2137373fdb6aa235cc86c55e44b57f0f5b7409c91ba29ba39ac91ff9357bbb
+Elektronomia - Close To You-01.mid,accepted,no,224.7,0,0,1,0,0.024,93872891c2d9a3d3a3a631b8244ae82702fbbaffc8dfcbba465d673239a8c606
+ELP - Fanfare For The Common Man-01.mid,accepted,yes,530.5,1,6,3,1,0.752,6a3adb4b5926012fdb0db3b670002c36508d80b02ad6a601b7cdc3ba7776c2f4
 Emotion Sickness-01.mid,accepted,no,200.6,1,1,0,0,0.0,633ff4dd6070304065dbbc0977b79485d942abef2ec6418660a289e44ef619f9
+end of spring-01.mid,accepted,no,228.2,0,0,0,0,0.0,d6b68f34ff91f9b80fb02645361de07a414c04e70a00ba7082f8949903b97512
 End Titles-01.mid,accepted,no,227.5,1,0,0,5,0.0,27a76ca90e917e35e4885904de67edde709cc7cde0b764aca042cbace5e175ef
 Every Time We Touch-01.mid,accepted,no,227.0,3,1,0,8,0.0,5d3484f055a9894a77bf3aacf12829857ebc281a39f32e8a6ceb38f03288422c
-Everything Goes On-01.mid,accepted,yes,213.6,2,1,4,0,0.062,f54d8447d7c64f955fc870b07ba09c51ef1b8bec96ab282b0b63b07da7bf7e8d
-FEELS - Calvin Harris Pharell Williams Katy Perry amp Big Sean-01.mid,accepted,no,230.4,1,0,0,6,0.0,e21bb3964ec951382d1737dae23e9519cd9f20839c005a2d65b7dbce2bc1c8b0
-Fable-02.mid,accepted,yes,428.8,1,1,4,0,0.586,8ab259cbe2c756919ca1561cde60b86ddf1b4379cd2851b635ac6379e6eacd9c
+Everything Goes On-01.mid,accepted,yes,213.6,2,1,4,0,0.062,49e0183b3ba29e73bf9e2cf9ccae3ee56c081fb766b243d3b27eb76a3dee81ee
+Faster Than Light-01.mid,accepted,yes,398.8,2,1,15,4,0.281,5f22521a03cac1d9e3330a63763b90608c11bba35924311245eeef71b9dfa5ad
+FATALITY-01.mid,accepted,no,125.9,1,1,0,0,0.291,5fadc4b82680de593e845c63f4f2bcb1f0f0766cdd4fc063a0da587321832c3c
 Feel Good-01.mid,accepted,no,245.2,2,2,0,0,0.0,66ca7689977b238ed638148978fa1e0f9f137f7ae3f2e4580459f687a00aaa03
-Feels-02.mid,accepted,no,262.8,1,2,1,4,0.114,f9d5533919a2f7b73d092261468fced7f932407bff384889de129de2a7d6e05a
+FEELS - Calvin Harris Pharell Williams Katy Perry amp Big Sean-01.mid,accepted,no,230.4,1,0,0,6,0.0,e21bb3964ec951382d1737dae23e9519cd9f20839c005a2d65b7dbce2bc1c8b0
 Fireflies-01.mid,accepted,no,198.7,0,0,0,4,0.0,e0f6336041df7ee5f296e394a5b444e78892e6a5987d7d62ac348393bde9c52e
 Firestone-Kygo-01.mid,accepted,yes,267.1,5,1,2,1,0.273,1dce5acda75e9234eb53215c62319c61a403785e323f3ca73e9ee698ea2d883c
 Fly Away-01.mid,accepted,no,195.5,7,2,2,5,0.058,3daaa21a652f1e9b92ca1d9706ef664c9f51bad210bd7b48e444a67d2bc1f23b
@@ -58,65 +70,136 @@ Frost Man-01.mid,accepted,yes,288.9,1,1,4,0,1.0,60640f0740eb5487805c89234e3317e3
 Game Of Thrones-01.mid,accepted,no,248.6,1,1,0,0,0.0,44d5acd3b1daf0b3fe115a60a295deecef58c758dca16cd28a132cd6886dd948
 Georgio by Moroder-01.mid,accepted,yes,497.6,4,1,5,0,0.39,fd46016ba211fc4b9971c3ffe87b87e7a844be9f4980dc3e67f6bcfa378a165e
 Get Lucky-01.mid,accepted,no,242.1,2,1,0,3,0.0,ca75d7f292f3e3e3449a5effee0fb79600b2300164da1a67e661cbc15be581da
-Girls On Film-01.mid,accepted,yes,216.4,2,2,3,0,0.032,86a148577b53653a3389eeadb591ed1f05bd1df2add170667f72782fdd168342
-Golden Ridge Golden Feather Mix-01.mid,accepted,no,205.7,1,0,1,5,0.367,12ce3c238b7f37425bebcf7f62689ef89540963114ca4d7ecd6876047635151a
+Get Your Wish-01.mid,accepted,no,323.4,0,0,0,1,0.0,4563fcbd277ddd15e7b60e122c7b56cbc1e5eef661f45f9fe950cbf8d9af7a58
 Gravitational waves-01.mid,accepted,no,219.0,4,1,1,17,0.0,85c8cee22cc6952202de013ec42819aa26e3144311a2373346be6fa9fe4abb11
-HG-01.mid,accepted,no,225.6,6,0,0,1,0.0,202055d9807ff9b9dfec09acf3e990559801996ce7359d906a115228ad1b456b
-HR 8938 Cephei-01.mid,accepted,yes,532.5,2,1,9,0,0.256,10a264e24506185d6fcf162d7df3b381452f91451d33f06bcf8de803cac716e3
 Happier-01.mid,accepted,no,230.4,0,0,0,11,0.0,2db6e56914afcf68246e94aa54122d62d2764a37c1802d640e0bf55c2e8bb783
 Happier-02.mid,accepted,no,213.6,1,0,2,0,0.077,945a71d80e5c76761c337cea65a8df526f87d76d15619875f6dc1c2e9eac7299
-Harder Better Faster Stronger-01.mid,accepted,no,235.6,1,1,0,5,0.0,6bad0f927fd1c1762dd022d4aceab2ccc7e56c5bb45bb0559f76601f9a4ccf7a
+Haunt Muakie-01.mid,accepted,yes,359.9,8,2,5,2,0.281,04fb603c0cb3e8155c04e98e19d944c6b6c91a37058a416ccc3040f35fef27eb
+Heavy With Flavor-01.mid,accepted,no,185.8,0,1,0,0,0.0,40e122db28e940aa797b5c98d67e3a23313519aa1d6e91b66d7878933ed6d173
 Hero-01.mid,accepted,no,309.6,1,1,0,3,0.0,19212f743c1e2f379d5bea6b23cd5adee1d2502b63ce6b1f13e8ca96373e76bc
+HG-01.mid,accepted,no,225.6,6,0,0,1,0.0,202055d9807ff9b9dfec09acf3e990559801996ce7359d906a115228ad1b456b
 Hiding In The Blue-01.mid,accepted,no,217.6,5,0,0,8,0.0,ea7deb4670f5d3a1d813c35f34a34a79d97f197f443b3027a1ae7c2c40fc9f80
 Hold the Heathen Hammer High Synthwave-01.mid,accepted,yes,232.4,2,3,7,0,0.302,b73f828a83d54f7a2ce2a174aedee213853851ed08253bc32afc3e558dfdf808
 Hold the Heathen Hammer High Synthwave-02.mid,accepted,yes,260.2,2,3,7,0,0.315,378522467a7beb289d94bf3befd922da80dbc12afcdbdecea4d49fe2d527050c
 Hot Stuff Updated Version-01.mid,accepted,yes,192.0,1,2,3,0,0.449,fe5e30c988217b34823be96de6065e5446ce33cefb775d87d970346a1aeaaf96
-Idols-01.mid,accepted,no,229.0,2,0,3,0,0.266,0b5bd3877dbbda37032c41ae63a67645ef2ab02833541f3bfe9a80e0c592b670
-In The Name Of Love-01.mid,accepted,no,216.0,3,0,4,0,0.325,408280402f40d462c309f93280990bd16be44754b3909818e0037569d258bac8
+House Building Song-01.mid,accepted,no,213.2,1,1,0,1,0.0,88bd37f1048367f4c88a2dfdca27cd5cc951f5068e9dbd823e9d2f939f1d34e7
+HR 8938 Cephei-01.mid,accepted,yes,532.5,2,1,9,0,0.256,10a264e24506185d6fcf162d7df3b381452f91451d33f06bcf8de803cac716e3
+Ichor-01.mid,accepted,no,81.0,4,0,0,13,0.0,683359bc800c59c66783c69147c18888a30838861a1f1af5dd737ca854acbb99
+Idols-01.mid,accepted,no,228.8,1,0,0,0,0.0,47c2f05c68470dba2245be14cba90b4460a31a34894a806928218d2647110ee4
+Idols-02.mid,accepted,no,229.0,2,0,3,0,0.266,0b5bd3877dbbda37032c41ae63a67645ef2ab02833541f3bfe9a80e0c592b670
+INFESTOMANIA-01.mid,accepted,yes,400.8,3,2,2,1,0.0,038dc1f4a201656960f1ad7600a8b79e04e41b482d369dbd498e7724543916dd
 Into The New World - Orchestra-01.mid,accepted,no,259.4,1,1,0,3,0.0,691880b484518ec879fb3a76ba373f43c6149a3656a2ca368ed7fb6990df914d
-KYGO - Gone Are The Days ft. James Gillespie-01.mid,accepted,yes,198.0,2,1,5,1,0.205,210540d45b690aa97e3f56c32d785cfd75af20b233f46153487c593cd0be706b
 Keep It Mello-01.mid,accepted,yes,189.7,4,2,4,3,0.399,c4189a17b7ba494f51bf92b37f5f13446c050c037a178fc37972784ee922d024
+Komm süsser Tod M-10 Directors Edit. Version-01.mid,accepted,no,463.5,4,1,0,1,0.0,e18f37e91f16d43629f86e0b78538179bca03df0abe9de69be447c937228fffa
+KYGO - Gone Are The Days ft. James Gillespie-01.mid,accepted,yes,198.0,2,1,5,1,0.205,210540d45b690aa97e3f56c32d785cfd75af20b233f46153487c593cd0be706b
 Kygo - The Truth ft Valerie Broussard-01.mid,accepted,yes,185.5,2,1,1,2,0.0,06bcb5d3289b45fe65158228e82a2606f77f1ff79e825e72be21f8a9f9657846
 Kygo - Thrill of The Chase-01.mid,accepted,yes,193.6,3,2,5,0,0.309,11d80aad2b1b6e12edcb1c9571dcf0802fc083307e3a0acc432d6fd9e3cf62f1
+Kygo ft. Sandro Cavazza - Happy Now-01.mid,accepted,yes,205.4,3,1,4,0,0.355,596c80a98296eb2b5881c62461543083762ea7ff167a40e1315bcd94857b4069
 Kygo Tina Turner - Whats Love Got to Do with It-01.mid,accepted,yes,203.4,3,2,3,1,0.169,bb36f004d52dfac803119c9b324187df1fa8607d703db9eaf42312da8fc4b5ae
 Kygo Whitney Houston - Higher Love-01.mid,accepted,yes,223.8,2,3,3,0,0.142,9190edb7b159e2f956853108ba7e82393ff382980e1f3d8a65a5d87763fa4c75
-Kygo ft. Sandro Cavazza - Happy Now-01.mid,accepted,yes,205.4,3,1,4,0,0.355,596c80a98296eb2b5881c62461543083762ea7ff167a40e1315bcd94857b4069
-Kygo_Sample_01.mid,accepted,no,185.5,2,0,0,0,0.0,52e9b6ce30cfd3cd96001cc43e9b72cd4e76dfb57393391675474838ff391f28
-Lifelike-01.mid,accepted,no,92.7,2,0,1,4,0.065,3074201fb0b15d54c8adb9748daf6c6ecc75e2757ebe21f99f80ecc9f53b3d35
+la lune-01.mid,accepted,no,230.3,0,0,0,4,0.0,ec38b154f03520c02abb18b5f4245998af16f452519a58e700a7d5c259829d30
+Let It Happen-01.mid,accepted,yes,460.8,1,1,3,1,0.547,91e595afe346b6f0bcd1c1120da2819644a9df0cff4d6adeac5dfd275642ee44
 Limit to Your Love-01.mid,accepted,no,288.4,3,2,0,0,0.0,fb33b2fce6b90a12744f967df3c9ab91b623ab52be0047e7e81a30c05d998b13
+Locrian the forgotten mode-01.mid,accepted,yes,359.9,2,1,5,0,0.307,be34c5b3ab0f2b384fea7a97a7e6a5b2c3e6fbfcd98d704c335b1f18c8eea65e
+Lolita - Electronic-01.mid,accepted,no,311.4,0,0,4,0,0.681,9d3d4958ab5149d9b805ffeb82c6df591ea2a7a46ac993b5347c61668b6e2312
+Lonely - Illenium Drumline Remix-01.mid,accepted,no,268.4,4,0,0,0,0.0,53a390b7e2ec101a9882c05e6091f770cf11e8ab8e564f0eebca70e324f60e40
+Ludicrous Speed-01.mid,accepted,no,176.4,0,0,0,0,0.0,f05fe7540fe191eadd18d789f7a31c8e939cc5456cf33109dad9a7cec16a517b
 M83 - Wait Kygo Remix-01.mid,accepted,yes,295.8,2,4,5,0,0.255,fa2b3eb1829ae05c8ed8ebef69b4811d9471dd5c3c679df09552b8cc776bd387
-MELTDOWN-01.mid,accepted,yes,132.0,1,1,3,0,0.424,2955dc552bb9d51cd320fd1771d93cd6f640861f2d1607004cfa8ad04ca4d469
 Magoado-01.mid,accepted,no,235.8,0,0,0,0,0.0,3c4d78e6c58677b83e93bf4ce927c1524eecd0caf2a68076f439a0f4e2dc11de
 Marvin Gaye - Sexual Healing Kygo Remix-01.mid,accepted,yes,361.2,4,1,5,0,0.354,d6e60737d28359cf4ced70782d6714d9316949b049308d095cd3aa6cd3a48c2c
+Megalovania-01.mid,accepted,yes,624.0,1,2,8,0,0.399,ff429e9e7363f7915eaea2f76d0eb6be7950523281b0af6dc89d928c9b0ea0ba
+MELTDOWN-01.mid,accepted,yes,132.0,1,1,3,0,0.424,2955dc552bb9d51cd320fd1771d93cd6f640861f2d1607004cfa8ad04ca4d469
+Metropolis Part 1 The Miracle and the Sleeper-01.mid,accepted,yes,560.7,4,1,8,0,0.178,472627159a043aa159932119c7a65d41bdc888c3e7365a42e6d9a54f45060e64
+Minecraft Blinds Spots - original-01.mid,accepted,yes,331.2,3,2,7,1,0.318,2af24702cf7c5395950a2b36c26a711c0f83bdf05d13fc2617c99b953225ebb4
+Minecraft Taswell - Original-01.mid,accepted,yes,513.8,8,3,16,3,0.54,07345fb12378a1a72f90ebaf98e56bb591160d60ae8fbda5d055011766678a74
+MONEY FOR NOTHING-01.mid,accepted,yes,467.6,2,1,6,0,0.164,bfba25a03b83c102eb721112a595ea084c65566308344a274a6cd642f83e27ff
 Monody-01.mid,accepted,no,285.9,1,0,0,8,0.0,b724e47392a66457a7a7ccae5d17ac3be0aa412dfcbe20ac9ef489de6504a284
-Monody-03.mid,accepted,no,230.4,0,1,0,0,0.0,1d50963ff64a643c1fb9d25e00f546bb98236f7bbaa4f9b4e3da979268116f3f
 Mortal Kombat Theme-01.mid,accepted,yes,203.4,3,1,6,2,0.553,40184838e9f0ac2d3bf141bc9d39b3fea795b0faa0efccd6cab69c943f170935
 Mortal Kombat-01.mid,accepted,yes,186.1,3,2,2,0,0.356,e880bf4f067923b64fac6d6b6f6e5e5df5462e9794da0c50828b0d991f56976f
 Muffets Theme-01.mid,accepted,no,167.0,2,0,0,0,0.0,dda8522533df44b4674545618498d11ae13d8218725f4cbef5a52513bd7c969e
-My Future-01.mid,accepted,yes,257.7,1,1,4,0,0.51,b2da271ae5b5a216096d34e0bb6a120dc4f61847becb4df199a9877ec3132c70
+My future V3-01.mid,accepted,no,177.3,1,1,0,0,0.0,a61e5755f770169793d311fd24ee3f9d03561f8bd34bc4219e1fa6cb6a971fd4
+my future-01.mid,accepted,yes,257.7,1,1,4,0,0.51,b2da271ae5b5a216096d34e0bb6a120dc4f61847becb4df199a9877ec3132c70
+Myth-01.mid,accepted,no,244.1,5,0,0,0,0.0,e706ad705100c50bb5f773311706d77d4cfa0cd0f12802e8d7cbe1c7a7f98447
 NEW MAGIC WAND-01.mid,accepted,yes,194.1,6,1,1,0,0.419,61187ee3a788517e0077f1b9de2cd94e2ab97afca2b6563af8fdf90df94b1934
 Nightcall-01.mid,accepted,no,261.3,1,0,6,3,0.623,9cd072b29a692170117763dbadb9fef26dca07b7d2a56ff5cc65658152687248
 Nightcall-02.mid,accepted,yes,242.6,1,2,5,0,0.843,6c7ce0385dfd603549ead6538761f7d32322ead9fdb3800638323448011357e0
 Nightcore Legendary-01.mid,accepted,no,201.7,0,0,0,5,0.0,f0b86436373be937573e0ba64b86c7a5632813403ee3733bcf136625e3fbf641
+omg - newjeans-01.mid,accepted,yes,210.9,3,4,1,0,0.616,a56f40b7a0defb8af4e0b5c5d3e9d5c3ff4e01a1fbbcc2d49f582410577e6a35
 One More Kiss Dear-01.mid,accepted,no,218.4,1,1,0,0,0.0,a27d55810026a0e1e2336ac5b95a1021246f7bba19eaca7959860166c0510078
-PARALLAX-02.mid,accepted,no,1034.9,6,1,0,12,0.0,39736e578bb6be49b9ffa2d19486a43e05b1b9bd4ddad883cff3c31536d168a9
+PARALLAX-01.mid,accepted,no,1034.9,6,1,0,12,0.0,332ec5b6b0d970d3073cae86e9b831b29538c6f9d571c96e2eb0304039424864
+Paris-01.mid,accepted,no,206.2,0,0,0,1,0.0,c0db1915be8f6b93fcc3109441383b3b65b7168e88d76553fb4c8188fb5f6c33
 Pentatonix-01.mid,accepted,no,197.7,1,5,0,0,1.0,18dad90c2ddc395e345e5663dd21a818952fb4fb287059fc67a1c620d746c9ab
 Phoenix Wright Apollo Justice- Trance Logic and Trick-01.mid,accepted,yes,170.2,2,3,3,0,0.976,301a91e54329798268cd94d4b4a713a6e579068d92af719f4a9b88fb12a832ff
 Piano Dubstep-01.mid,accepted,no,208.0,2,0,2,0,0.422,a303f2bd4104f63c160895694c3a101fdcc7987b65ef920ce2f31b8dc5349b6c
+Pika Girl-01.mid,accepted,no,221.0,1,0,0,0,0.0,bf0c861564974799bdfe02904c5aa811659a0eb20c783d3e74c24fdb8b072bb0
+Pizza v2 Orchestral-01.mid,accepted,no,288.0,1,1,0,5,0.0,9b75cad2e45b827d3ad97f3f93d57c0acc2f965a85bc7223ab5522ab8461b697
 Plainsong-01.mid,accepted,yes,297.9,1,1,3,0,0.658,df48968ba02d6bd432a66a8485953e851df87281e620d0fb80db6467da568839
+Pneuma-01.mid,accepted,yes,711.9,2,2,5,0,0.016,75886af192864c3520446a73274ae0d6876af84d63d3404f66c25ad8f94a6e1c
 Porto-01.mid,accepted,no,267.7,1,1,0,0,0.0,327dfa5f069f2dc6a01bfe14743cf26bbc9ebf519aa173d07710e3653d98a888
-Rhythm Heaven Marching Show-01.mid,accepted,no,212.1,5,0,0,16,0.0,c777f025a974f32e2b29686becebf559a31b5333bc3b2b8957456d8b577af92a
-River Of Darkness-01.mid,accepted,no,321.0,1,1,0,0,0.0,46b01478ed4b9ed4a34c04bf6d798cc9312c70c9d5ce58a8bb59b12e79f4e524
-Roadgame-01.mid,accepted,no,192.0,0,0,0,0,0.0,f18db7073084f46a00d2975c762a8ec6b4ce496f92d22b73c37c09bb10426b8c
-Rock aposnapos Roll Train-01.mid,accepted,yes,256.0,1,1,1,0,0.0,43287272cd6d7e414971369f9414433856b5ef7901a4eade90de2d498b30e294
+Raw Unfiltered Calamity-01.mid,accepted,yes,496.6,1,2,1,2,0.02,0d4cfd3434e69756f4baf96032276e9c6f7b9efa9ba73ec24dea2c43dc517e6c
+Rendez-vous III-01.mid,accepted,no,193.5,0,1,2,0,0.602,9b155238c16a9d3b58faee4c196f76862d0ae0f732763dbd112b7c64492624fd
+Requiem in D minor-01.mid,accepted,no,186.8,1,0,0,15,0.0,3b4222eee12c1807970b62033865fd0c7afb92bad41c9ce1eec5740b1d00dd89
+Rewind-01.mid,accepted,yes,202.5,1,1,6,0,0.931,ed92496975c9272e633459a948b57b15eaca807d0d4f6b79cdc4d2586718a39c
+Rhythm Heaven Marching Show-01.mid,accepted,no,212.1,5,0,0,16,0.0,462edefaeaca27995026a552bfe6f55a1c14fe233d58fd299f7eebea14f44ad9
+Rock aposnapos Roll Train-01.mid,accepted,yes,256.0,1,1,1,0,0.0,3dcbd3bb4dd8b5cdce432fdd7bedd73f6e1e4c485c4bf96c877fe8606c794a81
+sad machine-01.mid,accepted,no,203.5,0,0,0,0,0.0,d80114dbf6c6f8db78af576eee13e1b8e7bacdf2bf6459f4a5ab238925cf5da0
+Scared To Be Lonely-01.mid,accepted,no,219.6,2,0,0,1,0.0,a048a46b5e49897ea1c32b47b0f75a478de72cf36ebf4ba77c89ccf2648136e6
 Scary Monsters and Nice Sprites-01.mid,accepted,no,274.0,1,0,0,2,0.0,54db0e077967fa51cbb5d0b6bafcaca27b8894c329edc94ed6eb83c607fe0604
 Scatmanaposs World-01.mid,accepted,yes,234.7,1,1,3,0,1.0,104e1e1b659445cbc284dee0d5d34e36eed99f221170403071a1fb49a864e142
-Shelter - Porter Robinson Madeon-01.mid,accepted,no,246.7,0,0,1,3,0.0,118ebeeca5cf8138d9de56a1f51ff22f6a7fb91fae0dd9bc1d5f26cc982b98dd
-Skrillex-01.mid,accepted,no,140.0,2,0,5,0,0.188,c40cfd6dd755521f82653a0852506eb90f1c826165cb682b6fbc91d228e13b8f
+score-10385791-01.mid,accepted,no,171.2,1,0,7,0,0.0,f45357c80f2a4f354487c7bdc92c623285844f274be92a5d95054d72e33612f6
+score-10482466-01.mid,accepted,no,112.0,5,0,1,10,0.079,3782b9437d03721e44e7d31a96080706181a8b4b7c96af041da5524f7b1c1122
+score-11493661-01.mid,accepted,no,125.5,0,0,0,7,0.0,acda5f55edd1cf522f0a98b780927d1c2793d77a2e40dbb5a0b18d1083bd4242
+score-12995479-01.mid,accepted,no,182.8,2,0,6,1,0.632,b1d31c8bfc4eca79e6fff47b3a0431364f9c7354f0bbde3f273df7d8ed008779
+score-1366371-01.mid,accepted,no,230.7,0,1,0,0,0.0,14ca539fb96297f5744f0c03a6f4a5e3ae5f89b735e2194032faa26b7e19f67e
+score-13949002-01.mid,accepted,no,235.6,1,1,0,5,0.0,6bad0f927fd1c1762dd022d4aceab2ccc7e56c5bb45bb0559f76601f9a4ccf7a
+score-14841628-01.mid,accepted,yes,398.3,1,6,16,0,0.42,f5cc18d17d55abdf907e9490235fc0cb933ee91d6aac8634bf7a9e12f7d58d48
+score-1636651-01.mid,accepted,no,140.0,2,0,5,0,0.188,c40cfd6dd755521f82653a0852506eb90f1c826165cb682b6fbc91d228e13b8f
+score-16481788-01.mid,accepted,no,321.0,1,1,0,0,0.0,46b01478ed4b9ed4a34c04bf6d798cc9312c70c9d5ce58a8bb59b12e79f4e524
+score-16731844-01.mid,accepted,no,263.7,1,2,7,18,0.316,39e31031e9f8b00e92326d74032618eee6cfaf3c14b5238b64c2cadfa39e5ae6
+score-16731847-01.mid,accepted,yes,263.7,1,2,7,0,0.675,60a9442fe97b48699161cd09270900c151f482dc894f93b708ca2ee5b43182e2
+score-16772323-01.mid,accepted,no,190.0,4,0,0,12,0.0,b0a3bc3bee83fc8aced792f976890990520c7caee49d86d47155cee9ab1e060b
+score-17748631-01.mid,accepted,yes,302.2,1,1,5,0,0.569,932d38e555cb8e6be139f30ec85ccf6bff7ecdce6364582681f67f33ae1e0a2c
+score-19697590-01.mid,accepted,yes,160.3,1,1,5,2,0.284,a00569796198eeab76e008192641fb2fb94f9de7550f62226dc3071c5c304b99
+score-2122541-01.mid,accepted,no,230.4,0,1,0,0,0.0,1d50963ff64a643c1fb9d25e00f546bb98236f7bbaa4f9b4e3da979268116f3f
+score-21869797-01.mid,accepted,no,399.6,3,1,0,27,0.0,2aeb4196fe40779b1a39cb95b6ae8ce705f3c45910669824eac091d3e22c31a5
+score-22178698-01.mid,accepted,no,133.5,2,0,0,2,0.0,2cce5ec910729b5df6406f188259d16825bbb24403f55e6f5e8ba084d3cbbb2c
+score-22740076-01.mid,accepted,no,192.0,0,0,0,0,0.0,f18db7073084f46a00d2975c762a8ec6b4ce496f92d22b73c37c09bb10426b8c
+score-25473316-01.mid,accepted,no,270.5,1,0,1,1,0.652,2f8f9a3c834a4643ed1269ea67219eddc75c73eeb3f30a95972b6342570839d7
+score-25538236-01.mid,accepted,no,205.7,1,0,1,5,0.367,12ce3c238b7f37425bebcf7f62689ef89540963114ca4d7ecd6876047635151a
+score-25756924-01.mid,accepted,no,92.7,2,0,1,4,0.065,3074201fb0b15d54c8adb9748daf6c6ecc75e2757ebe21f99f80ecc9f53b3d35
+score-26687251-01.mid,accepted,no,248.1,3,2,0,0,0.0,729cb8a97f1196436b5898bc60637af1fdd0a008b42552def4fc22794d0fcbdb
+score-30509765-01.mid,accepted,no,120.2,4,1,0,13,0.0,13f8f628a986530bdcc3934afdab6e0d20c2ee6713e4f58e47bae36a70765fd3
+score-31541576-01.mid,accepted,yes,243.7,8,1,8,0,0.782,cf5c059488dfabb1e7b4a65538c518029d2ad5c4617964268436420ef6359751
+score-32524646-01.mid,accepted,no,238.8,4,0,0,29,0.0,f38826bace5cec70678a999781ba155ee5e582743e5f935c96d074220ccf6e9f
+score-3572156-01.mid,accepted,no,216.0,3,0,4,0,0.325,408280402f40d462c309f93280990bd16be44754b3909818e0037569d258bac8
+score-4206236-01.mid,accepted,no,301.2,1,0,0,0,0.0,555165e0aab03782ebc129ce8a27741d85654c97514e60395c4046a3e7383abb
+score-4520351-01.mid,accepted,no,262.8,1,2,1,4,0.114,f9d5533919a2f7b73d092261468fced7f932407bff384889de129de2a7d6e05a
+score-5015825-01.mid,accepted,yes,255.4,9,2,14,0,0.0,3b15615faea9cd5c61bc6ffb517734fbc89cc212d44f42f3d653cd008e737634
+score-5284468-01.mid,accepted,no,81.0,4,0,0,15,0.0,9f36897ebc55d947d51b2da77af015edb197f9c984a4ea8454a5964a516cd5fa
+score-5322310-01.mid,accepted,yes,152.0,5,2,6,0,0.919,b5a974b5a1ac7a8be481a04f0672809034f9305d28a4f97da3983eac0a30c621
+score-5587698-01.mid,accepted,yes,200.0,1,1,4,0,0.677,31f7e569689a928d02becebc1bfb58b7ad5085599a7ca325de799b2d5bfb8e93
+score-6182791-01.mid,accepted,yes,420.5,1,1,10,0,1.0,180d5277838bbf3778b3f3fef897ea5ed0b8887ba44f1b13b7bac319cd72aa02
+score-6193854-01.mid,accepted,no,304.3,3,0,1,0,0.629,21ae8e767e6ef013307bf7713d034b3920fff8bc1f9fed9fd635be6307673e70
+score-6727532-01.mid,accepted,yes,316.2,5,2,2,0,0.376,034198124f366e964351cfe5ecdd79428aa144968e0c2bd5d471a52876d434c2
+score-6854162-01.mid,accepted,yes,326.8,3,2,9,0,0.664,4635c754d452796136abf6db9dced4020892270068ee457b88dc0b9dec84658d
+score-7010373-01.mid,accepted,yes,428.8,1,1,4,0,0.586,8ab259cbe2c756919ca1561cde60b86ddf1b4379cd2851b635ac6379e6eacd9c
+score-7047347-01.mid,accepted,yes,216.4,2,2,3,0,0.032,86a148577b53653a3389eeadb591ed1f05bd1df2add170667f72782fdd168342
+score-7070597-01.mid,accepted,no,101.8,5,0,5,0,0.569,3a8318c889f825ef4746e45d090aae29452531527b92d52f0b7a646710c9e0eb
+score-7261193-01.mid,accepted,yes,246.0,1,2,7,1,0.626,e675871e26b037bc54ddff06767f1452b87b46a902215ce4cc3a7ad7176d15fc
+score-7764077-01.mid,accepted,yes,186.1,3,2,2,0,0.356,baa1a06e39e3386b86731fa0be287af6bda1531bbe30e8231f142c4971c7371a
+score-8291423-01.mid,accepted,yes,785.2,1,1,6,1,0.546,1d7320c311b2789c0a54bcbf34ed09a212ba44500927bf435d65d60df8fa4d2b
+score-8576477-01.mid,accepted,yes,96.2,1,1,1,2,0.075,ce5018fe5598ed0ba8760df9d6ed89e264026e15c6aa2ea57100e4938cb7667e
+score-9176907-01.mid,accepted,yes,299.7,6,3,1,1,0.344,4a276c91f768ecc6ceb224dde741f372f2effb9f586008dc4e0540cebd58f9d0
+score-9180402-01.mid,accepted,yes,247.1,1,1,10,0,0.495,1f5553e7d2d98a59680d2d06a7f02659a3dd7ffaf8ad880804e537e2a0f4b388
+sfwefewg-01.mid,accepted,yes,331.6,3,1,6,0,0.536,27f159b213bb95dac031cec124fae3e8fed3b5b0bd0e8efcaf3f8fd1246b8ab6
+Shelter - Porter Robinson Madeon-02.mid,accepted,no,246.7,0,0,1,3,0.0,118ebeeca5cf8138d9de56a1f51ff22f6a7fb91fae0dd9bc1d5f26cc982b98dd
 Slip-01.mid,accepted,no,424.9,5,0,0,0,0.0,299f952aa54e7de626e80f7579baf24b9a74431ad1dec95e3f790e82f92109db
 Smart Race-01.mid,accepted,yes,256.0,2,1,6,0,0.715,f02a5481908e68cb4401a4d52459ea50f3ab44635844ce5c7d6c666aafa05450
 SmokeScreen Electronic Remix-01.mid,accepted,yes,212.3,1,1,6,0,0.505,3ad99d03fdc5e642017888ab8bd5abc91555ccde8fe8b792488cce3fe4c73d65
+Snowdin Town-01.mid,accepted,no,76.1,1,0,0,1,0.0,8128a5f87e357753e7da882bc503c24eab9881ec4a5abe9e0111b3b17a77569e
+So Into You It Breaks My Heart-01.mid,accepted,no,112.0,0,0,0,0,0.0,3de949a61b849c09348ef5e13dc3aca899ed8574b6fd475add4584d2827bc508
 Something About Us-01.mid,accepted,yes,224.8,1,3,4,0,0.394,d23138353b5b29d9024fbb2808d87a49e6a597c49a3bec8a95ad865730610e2f
+Space Song Real-01.mid,accepted,yes,326.7,1,1,4,1,0.31,c8f2f005844b28aad0f8bb2d7eec5956d5454fe7ec85c219e58de7e9c8f03a92
 Starcraft 1 Terran-01.mid,accepted,yes,229.2,3,1,2,0,0.059,e667f37859da3ccd44043bbe3b72ba76eff3aa0ee27813c070cf32d904b0303e
 Stardust Speedway Bad Future US-01.mid,accepted,yes,220.1,1,2,5,0,0.269,52c2eb0d90105ca566a3ffbec5a1309c04ac7961372684d940b8f0f892e6af13
 Street Party BMC-01.mid,accepted,yes,146.3,2,2,4,1,0.208,c6b0d4e4e4e25d9cff0f410d2aa9cf34192b03034d311ea5f42432a7d1fcb8a6
@@ -124,98 +207,57 @@ Strobe 1st mvt-01.mid,accepted,no,242.7,0,0,0,0,0.0,bbee0c1c4b98f1878465205e8632
 Strobe Faders-01.mid,accepted,yes,294.4,1,1,1,0,0.01,6de99755b6532d4e202959a96c68fad2fa6d50b2c70c4a19e8fa13069f7fec32
 Strobe Streichquartett-01.mid,accepted,no,242.7,0,0,0,3,0.0,707ef45d34a27eb8a8633edae57c6d5945848b67e50ef59ae4bf9c116bcc7a51
 Suffocation-01.mid,accepted,no,238.0,4,0,3,0,0.799,36dbe74329c7a2256c067bce52d086585ec17e21f51137eedfc2814a501da233
-Techno Syndrome-01.mid,accepted,yes,186.1,3,2,2,0,0.356,baa1a06e39e3386b86731fa0be287af6bda1531bbe30e8231f142c4971c7371a
+techno mix-01.mid,accepted,no,546.3,1,0,0,4,0.0,0a3a85a9a9250e4ec75d4ff94f74a350a7e073c4a48c99000163c8640173c604
 Techno Toujours Pareil-01.mid,accepted,no,192.6,1,1,1,3,0.218,2da2b69c4f74b15099aa422e1b52656dce4ece83fcb6e2629306c4ff98dfc230
+Teminite - State Of Mind Dubstep Piano-01.mid,accepted,no,354.7,0,0,0,0,0.0,db1ed95d09afe8972259c89362b1e0cfc1088771ff1acd54e065703892c4b096
+The Alien-01.mid,accepted,yes,572.8,2,1,4,0,0.108,c8f0567ca28b96bd5c3ad63bdfa1301d3393527f03c56794336c4ccfabd8be4c
+THE GIRL FROM IPANEMA by JP-01.mid,accepted,no,192.5,2,2,0,0,0.0,67c56d52e0ec0498eee58f8a1f9362a119025ce3a0e88c96ce07134afd5156b8
 The Middle-01.mid,accepted,no,178.9,0,0,0,7,0.0,7f4564081f9b827e64724296b1dc24af28cc93813fe58f59f0d7de66b11c6b8d
-The Planets Op.32-01.mid,accepted,no,263.7,1,2,7,18,0.316,39e31031e9f8b00e92326d74032618eee6cfaf3c14b5238b64c2cadfa39e5ae6
-The Planets Op.32-02.mid,accepted,yes,263.7,1,2,7,0,0.675,60a9442fe97b48699161cd09270900c151f482dc894f93b708ca2ee5b43182e2
 The World Revolving-01.mid,accepted,no,202.1,2,0,0,4,0.0,41197bd2f3cf35ba66881a7f61581489dc7f9f11fe7d5fc1d8e0b2bc316f9eb3
 TheFatRat - Time Lapse-01.mid,accepted,no,179.5,3,0,0,0,0.0,6106841f22c7dd315a1e648710807fbf5bce2f900c1f6f6d62adde3f20abea28
 TiredRemixes - Alan Walker-01.mid,accepted,yes,212.0,1,3,1,0,0.394,cec4a40614d06beff4afec51179d89cbda2fb859bccc3086aac99d8fa34625af
-Titanium-01.mid,accepted,yes,246.0,1,2,7,1,0.626,e675871e26b037bc54ddff06767f1452b87b46a902215ce4cc3a7ad7176d15fc
 Titre-01.mid,accepted,no,215.7,1,0,0,7,0.0,c0af2d77f8a1054473a22a90ece870bb7ef58d14090340e20885fe52ebeca024
-Touch-01.mid,accepted,no,304.3,3,0,1,0,0.629,21ae8e767e6ef013307bf7713d034b3920fff8bc1f9fed9fd635be6307673e70
-Trance Music For Racing Game-01.mid,accepted,yes,316.2,5,2,2,0,0.376,034198124f366e964351cfe5ecdd79428aa144968e0c2bd5d471a52876d434c2
+To the Unknown Man-01.mid,accepted,yes,520.7,2,1,6,0,0.587,48db3d02f6215f938a65cc1266b0e8f37582798cb0297eca87a546e758bdd67b
 Trance Redux-01.mid,accepted,no,186.0,1,0,4,0,0.374,caa776e8c3df196b793874c20c67ec07061e267254e0a55889c2c816d30866ae
-Tribulations-01.mid,accepted,yes,302.2,1,1,5,0,0.569,932d38e555cb8e6be139f30ec85ccf6bff7ecdce6364582681f67f33ae1e0a2c
-UNSTOPPABLE Edm Song-01.mid,accepted,no,168.0,3,0,7,0,0.439,fdd4e3b4ce506868681474d49ea97104ebcc2e3447bd4287b32ac90ed1f1d0fb
-UNSTOPPABLE Edm Song-02.mid,accepted,yes,166.0,3,1,7,0,0.575,a2c3a5572a43ebe777f79133c7093acad29e9179b1f70051fecb98d2f9dd9999
+Triple Trouble-01.mid,accepted,yes,504.9,2,3,14,0,0.513,463e34dc473bf0d9c3351166bac72ef9324423a55577cf5dc3d176095bbe28dd
+Tropical EDM First Draft - Unfinished-01.mid,accepted,no,166.3,4,2,0,0,0.301,cdc12c339508dfa083decff36746e566f967cc47d96eb4fcf87bb1fa61b7942e
+Unbenannte Partitur-01.mid,accepted,yes,496.0,1,1,5,0,0.859,150be63cef8a5b9753f0a21ffe1bec558bd2a0aa2d0d77e24972c79b5ebeeec6
+Unholy Insurgency-01.mid,accepted,yes,419.3,1,1,4,1,0.051,b718b530be8e7092764f3967865fcbe68344b68a1616db2f6258ae1950b3d46b
+United We Dance Piano Cover-01.mid,accepted,no,221.4,0,0,0,0,0.0,7746738ea5b50da00476c1978dd60526926503eeda381c6baa676f7a71ef2368
 Unity-01.mid,accepted,yes,249.1,1,1,8,0,0.804,64a3c8a26eb575b5bf5d87426027a908d07d2ceadd72683ab2189983800f4bf3
-Uplifting Trance Template-01.mid,accepted,yes,398.3,1,6,16,0,0.42,f5cc18d17d55abdf907e9490235fc0cb933ee91d6aac8634bf7a9e12f7d58d48
+UNSTOPPABLE Edm Song-01.mid,accepted,yes,166.0,3,1,7,0,0.575,a2c3a5572a43ebe777f79133c7093acad29e9179b1f70051fecb98d2f9dd9999
+UNSTOPPABLE Edm Song-02.mid,accepted,no,168.0,3,0,7,0,0.439,fdd4e3b4ce506868681474d49ea97104ebcc2e3447bd4287b32ac90ed1f1d0fb
 Uprising-01.mid,accepted,no,201.4,3,0,0,0,0.0,556caaf21670baf98e8df448b888a627086c2f8dc6b679bd26b47d479d9886c5
 Venus In Furs-01.mid,accepted,no,316.7,2,0,0,2,0.0,c053d0ebd7b8cf1b55b5de919497ca47695bb79ef0fb294a4903ed2979290b9c
+vg music vibes-01.mid,accepted,yes,197.3,2,2,5,0,0.514,2f41525750764e8a0a6aba09f135e1cf76bfa9860791ac92ca3a5240f69fbd8a
 Viva La Vida-01.mid,accepted,no,233.6,1,1,0,1,0.0,126edae53ef65e4bda5652120dd8778808453cb5fd67adc29461ccd0c5274c82
 Wake Me UP-01.mid,accepted,no,242.2,1,0,0,6,0.0,694c085f6b7166350dc261a854baddbfeb9f449573252b2921523b527701e536
+Whats Love Got to Do with It-01.mid,accepted,no,201.0,0,0,0,0,0.0,7eac2772542022efe09ed2e4a9bed1feb2f6a360b8fbe5e712daf9e38e970cd6
 Working Title-01.mid,accepted,yes,124.3,1,2,1,0,0.253,2e74a64d2deb7984aab8537d58c5b1aa5c0c71c522f79ef4af325ca21fc24281
-Xeno-01.mid,accepted,no,187.4,3,0,0,8,0.0,9f259b0b494a9a01b4c0df4a44f76ee849b093336260fd9eba5c61dd4f3f1b7c
-YOU AND ME-01.mid,accepted,no,306.4,1,0,0,4,0.0,45b54503f3b28f17ae8487ee8483d31b727e099b1c97a40322c08643ae1d3f77
-You And Me-02.mid,accepted,no,301.2,1,0,0,0,0.0,555165e0aab03782ebc129ce8a27741d85654c97514e60395c4046a3e7383abb
-You amp Me Flume Remix-01.mid,accepted,no,333.3,1,1,0,6,0.0,dc3efdf7e0fc8c20998dc47bfd00dfd03cea98df7eedbb966498de45636ebb4e
-You amp Me Flume Remix-02.mid,accepted,no,292.2,1,1,0,10,0.0,173d3c75a3ca5e36ccd93a0b4782e994bd224b35914578065a44b8c68d82a619
+Xenogenesis 4-10-16 Upload-01.mid,accepted,no,187.4,3,0,0,8,0.0,9f259b0b494a9a01b4c0df4a44f76ee849b093336260fd9eba5c61dd4f3f1b7c
+You amp Me Flume Remix-01.mid,accepted,no,292.2,1,1,0,10,0.0,173d3c75a3ca5e36ccd93a0b4782e994bd224b35914578065a44b8c68d82a619
+You amp Me Flume Remix-02.mid,accepted,no,333.3,1,1,0,6,0.0,dc3efdf7e0fc8c20998dc47bfd00dfd03cea98df7eedbb966498de45636ebb4e
 You amp Me Full-01.mid,accepted,no,292.5,0,1,0,5,0.0,f3cdc8eb54f2a670ec1d9bbb024090b1ac1e088c4f4c1ea7db10696b9f0aa578
-You amp Me-01.mid,accepted,no,306.7,1,0,0,6,0.0,f49b20dd15cbf3bea960e0f1ceae8c28089f3339985da83c1936fac0e71ff724
-You amp Me-02.mid,accepted,no,313.3,1,1,0,5,0.0,185718e3b1057b8c4a56ba0db82b73a210492e6570843fea3bff2bf5563c691d
-You amp Me-03.mid,accepted,no,294.8,4,0,0,1,0.0,b0edbe623a1f770ea170c41b91eb9b24931c2cbbcf3643a32a98345c4d4aa5d7
+You amp Me-01.mid,accepted,no,313.3,1,1,0,5,0.0,185718e3b1057b8c4a56ba0db82b73a210492e6570843fea3bff2bf5563c691d
+You amp Me-02.mid,accepted,no,294.8,4,0,0,1,0.0,b0edbe623a1f770ea170c41b91eb9b24931c2cbbcf3643a32a98345c4d4aa5d7
+You amp Me-03.mid,accepted,no,306.7,1,0,0,6,0.0,f49b20dd15cbf3bea960e0f1ceae8c28089f3339985da83c1936fac0e71ff724
 You amp Me-04.mid,accepted,no,303.3,0,0,0,2,0.0,3b6c9a63a92ee370d3ce09e5d9ea2a905eaef504e3275baed15e56c50ca2d08b
-Your Distant World-01.mid,accepted,yes,326.8,3,2,9,0,0.664,4635c754d452796136abf6db9dced4020892270068ee457b88dc0b9dec84658d
-Zenith-01.mid,accepted,yes,274.1,1,3,4,2,0.344,c26c58508bf234ba2f98a87486c0d9a6a96c5ade883e86c4bb2d7586f5e92fcb
-b minor-01.mid,accepted,no,175.0,0,0,0,4,0.0,71d78a01ae2d6d3b01c8eacb47aa7e57b648d2b21b9de0f2df4c9f14e5d83943
-citrus-01.mid,accepted,no,248.1,3,2,0,0,0.0,9780599f4bfe24dab8911d5559a63c02144ed142d26771e3b0896fc5f99f6e4d
-deusdylan -01.mid,accepted,no,238.8,4,0,0,29,0.0,f38826bace5cec70678a999781ba155ee5e582743e5f935c96d074220ccf6e9f
-dubstep thang-01.mid,accepted,no,133.5,2,0,0,2,0.0,2cce5ec910729b5df6406f188259d16825bbb24403f55e6f5e8ba084d3cbbb2c
-dubstep-01.mid,accepted,no,442.7,1,0,6,0,0.318,84b8d98467befad1d32dac096161d69723b9960b29fdec0f5c94ce7fe44ac370
-edm-01.mid,accepted,no,828.5,6,0,0,11,0.0,aec5b964d96b6fe0ce849da93b2833b4932644741a261c018266831834497cff
-la lune-01.mid,accepted,no,230.3,0,0,0,4,0.0,ec38b154f03520c02abb18b5f4245998af16f452519a58e700a7d5c259829d30
-martin-01.mid,accepted,no,219.6,2,0,0,1,0.0,a048a46b5e49897ea1c32b47b0f75a478de72cf36ebf4ba77c89ccf2648136e6
-omg - newjeans-01.mid,accepted,yes,210.9,3,4,1,0,0.616,a56f40b7a0defb8af4e0b5c5d3e9d5c3ff4e01a1fbbcc2d49f582410577e6a35
-pizza-01.mid,accepted,no,288.0,1,1,0,5,0.0,9b75cad2e45b827d3ad97f3f93d57c0acc2f965a85bc7223ab5522ab8461b697
-sad machine-01.mid,accepted,no,203.5,0,0,0,0,0.0,d80114dbf6c6f8db78af576eee13e1b8e7bacdf2bf6459f4a5ab238925cf5da0
-score-10482466-01.mid,accepted,no,112.0,5,0,1,10,0.079,3782b9437d03721e44e7d31a96080706181a8b4b7c96af041da5524f7b1c1122
-score-12995479-01.mid,accepted,no,182.8,2,0,6,1,0.632,b1d31c8bfc4eca79e6fff47b3a0431364f9c7354f0bbde3f273df7d8ed008779
-score-5322310-01.mid,accepted,yes,152.0,5,2,6,0,0.919,b5a974b5a1ac7a8be481a04f0672809034f9305d28a4f97da3983eac0a30c621
-score-5587698-01.mid,accepted,yes,200.0,1,1,4,0,0.677,31f7e569689a928d02becebc1bfb58b7ad5085599a7ca325de799b2d5bfb8e93
-score-8291423-01.mid,accepted,yes,785.2,1,1,6,1,0.546,1d7320c311b2789c0a54bcbf34ed09a212ba44500927bf435d65d60df8fa4d2b
-score-8576477-01.mid,accepted,yes,96.2,1,1,1,2,0.075,ce5018fe5598ed0ba8760df9d6ed89e264026e15c6aa2ea57100e4938cb7667e
-score-9176907-01.mid,accepted,yes,299.7,6,3,1,1,0.344,4a276c91f768ecc6ceb224dde741f372f2effb9f586008dc4e0540cebd58f9d0
-sfwefewg-01.mid,accepted,yes,331.6,3,1,6,0,0.536,2b2d8a84f5324b28938ad85135c5212b7e98c19521a79c4a3897e8e00052105b
-techno mix-01.mid,accepted,no,546.3,1,0,0,4,0.0,0a3a85a9a9250e4ec75d4ff94f74a350a7e073c4a48c99000163c8640173c604
-vg music vibes-01.mid,accepted,yes,197.3,2,2,5,0,0.514,2f41525750764e8a0a6aba09f135e1cf76bfa9860791ac92ca3a5240f69fbd8a
 you and me final copy-01.mid,accepted,no,340.0,0,1,0,4,0.0,bd4e396578ddb38c680f9c227d77f43be0c3c80cf83139e00238434cb9198f2e
-ΩΩPARTS-01.mid,accepted,no,399.6,3,1,0,27,0.0,f1c352715563eae1c2c9156dab1e75b14cce354431e35746311c3f85cf1ab981
-A Funeral Of Flowers Rearrangement-01.mid,review,no,179.6,1,4,0,0,0.344,9026a079bc816627b2f04df37619c1e0b4454de3eba5dbc50c277dcc743c350c
-Alone-01.mid,review,no,257.1,1,0,0,0,0.0,0418e6f20887a9e2ce522c1ebd3d9e06a9081c44cd123ce712ebc5f21d5a4ca6
-Attack of the Killer Queen-01.mid,review,no,120.2,0,0,0,3,0.0,14cf40c95dc29b7ecc8c85d61514a23621efca40edc7b1822acef8c74517184d
-Clarity-01.mid,review,no,263.9,0,0,0,0,0.0,f80f1a3b609603ebf59c218ed6f788b6b06ab678a8f35d4f45f444c50e870f55
-DONE TheFatRat - No No No Clarinet Quartet-01.mid,review,no,175.1,0,0,0,4,0.0,c669f035b9c53c88d065c3c0f15748366d33bffe4d255fcd7b8eb5c7bd13411c
-Dear Future Husband 2-01.mid,review,no,186.2,1,1,0,0,0.132,762806374c0a12b24e3627e048d75aa304a132d796cc01927732fb9c33f92fe3
-Elektronomia - Close To You-01.mid,review,no,224.7,0,0,1,0,0.024,93872891c2d9a3d3a3a631b8244ae82702fbbaffc8dfcbba465d673239a8c606
-FATALITY-01.mid,review,no,125.9,1,1,0,0,0.291,5fadc4b82680de593e845c63f4f2bcb1f0f0766cdd4fc063a0da587321832c3c
-Get Your Wish-01.mid,review,no,323.4,0,0,0,1,0.0,4563fcbd277ddd15e7b60e122c7b56cbc1e5eef661f45f9fe950cbf8d9af7a58
-Heavy With Flavor-01.mid,review,no,185.8,0,1,0,0,0.0,40e122db28e940aa797b5c98d67e3a23313519aa1d6e91b66d7878933ed6d173
-House Building Song-01.mid,review,no,213.2,1,1,0,1,0.0,88bd37f1048367f4c88a2dfdca27cd5cc951f5068e9dbd823e9d2f939f1d34e7
-Ichor-01.mid,review,no,81.0,4,0,0,13,0.0,683359bc800c59c66783c69147c18888a30838861a1f1af5dd737ca854acbb99
-Ichor-02.mid,review,no,81.0,4,0,0,15,0.0,9f36897ebc55d947d51b2da77af015edb197f9c984a4ea8454a5964a516cd5fa
-Idols-02.mid,review,no,228.8,1,0,0,0,0.0,47c2f05c68470dba2245be14cba90b4460a31a34894a806928218d2647110ee4
-Lolita - Electronic-01.mid,review,no,311.4,0,0,4,0,0.681,9d3d4958ab5149d9b805ffeb82c6df591ea2a7a46ac993b5347c61668b6e2312
-Lonely - Illenium Drumline Remix-01.mid,review,no,268.4,4,0,0,0,0.0,53a390b7e2ec101a9882c05e6091f770cf11e8ab8e564f0eebca70e324f60e40
-Ludicrous Speed-01.mid,review,no,176.4,0,0,0,0,0.0,f05fe7540fe191eadd18d789f7a31c8e939cc5456cf33109dad9a7cec16a517b
-My future V3-01.mid,review,no,177.3,1,1,0,0,0.0,a61e5755f770169793d311fd24ee3f9d03561f8bd34bc4219e1fa6cb6a971fd4
-Original Future Bass-01.mid,review,yes,255.4,9,2,14,0,0.0,3b15615faea9cd5c61bc6ffb517734fbc89cc212d44f42f3d653cd008e737634
-Paris-01.mid,review,no,206.2,0,0,0,1,0.0,c0db1915be8f6b93fcc3109441383b3b65b7168e88d76553fb4c8188fb5f6c33
-Pika Girl-01.mid,review,no,221.0,1,0,0,0,0.0,bf0c861564974799bdfe02904c5aa811659a0eb20c783d3e74c24fdb8b072bb0
-Rendez-vous III-01.mid,review,no,193.5,0,1,2,0,0.602,9b155238c16a9d3b58faee4c196f76862d0ae0f732763dbd112b7c64492624fd
-Snowdin Town-01.mid,review,no,76.1,1,0,0,1,0.0,8128a5f87e357753e7da882bc503c24eab9881ec4a5abe9e0111b3b17a77569e
-So Into You It Breaks My Heart-01.mid,review,no,112.0,0,0,0,0,0.0,3de949a61b849c09348ef5e13dc3aca899ed8574b6fd475add4584d2827bc508
-Sweden-01.mid,review,no,125.5,0,0,0,7,0.0,acda5f55edd1cf522f0a98b780927d1c2793d77a2e40dbb5a0b18d1083bd4242
-Teminite - State Of Mind Dubstep Piano-01.mid,review,no,354.7,0,0,0,0,0.0,db1ed95d09afe8972259c89362b1e0cfc1088771ff1acd54e065703892c4b096
-Tropical EDM First Draft - Unfinished-01.mid,review,no,166.3,4,2,0,0,0.301,cdc12c339508dfa083decff36746e566f967cc47d96eb4fcf87bb1fa61b7942e
-United We Dance Piano Cover-01.mid,review,no,221.4,0,0,0,0,0.0,7746738ea5b50da00476c1978dd60526926503eeda381c6baa676f7a71ef2368
-dubsteep-01.mid,review,yes,239.5,1,3,4,1,0.222,20dbaa2f7c055ccb6af8c5754e4883d01b30b2970e578346a7fce3d58c1c6539
-my future-01.mid,review,no,102.9,0,1,0,0,0.0,56db139698fb7cdd8c7591aac10383602913ba5502c2159a1e163c21c6f326f7
-score-10385791-01.mid,review,no,171.2,1,0,7,0,0.0,f45357c80f2a4f354487c7bdc92c623285844f274be92a5d95054d72e33612f6
-score-19697590-01.mid,review,yes,160.3,1,1,5,2,0.284,a00569796198eeab76e008192641fb2fb94f9de7550f62226dc3071c5c304b99
-Myth-01.mid,rejected,no,244.1,5,0,0,0,0.0,e706ad705100c50bb5f773311706d77d4cfa0cd0f12802e8d7cbe1c7a7f98447
-Requiem in D minor-01.mid,rejected,no,186.8,1,0,0,15,0.0,3b4222eee12c1807970b62033865fd0c7afb92bad41c9ce1eec5740b1d00dd89
-THE GIRL FROM IPANEMA by JP-01.mid,rejected,no,192.5,2,2,0,0,0.0,67c56d52e0ec0498eee58f8a1f9362a119025ce3a0e88c96ce07134afd5156b8
-Whats Love Got to Do with It-01.mid,rejected,no,201.0,0,0,0,0,0.0,7eac2772542022efe09ed2e4a9bed1feb2f6a360b8fbe5e712daf9e38e970cd6
-end of spring-01.mid,rejected,no,228.2,0,0,0,0,0.0,d6b68f34ff91f9b80fb02645361de07a414c04e70a00ba7082f8949903b97512
+YOU AND ME-01.mid,accepted,no,306.4,1,0,0,4,0.0,45b54503f3b28f17ae8487ee8483d31b727e099b1c97a40322c08643ae1d3f77
+Zenith-01.mid,accepted,yes,274.1,1,3,4,2,0.344,5e41ff432bf69cc72777928270bf8860c07aa369fe0b15f76520b3e54abbd1d0
+Катюша-01.mid,accepted,yes,120.0,5,2,3,0,0.459,6f2ac9559d8346a8109806200af36fa5380ab0bad5fbe5df2ce27adb0225ad0a
+John Miles - Music-01.mid,review,no,348.3,7,1,1,5,0.0,6982cb5a3f96a38722f24e3045a62c462e62be682bc532974f177eaa9bbdc3fd
+Right Where It Belongs-01.mid,review,yes,362.6,4,3,6,0,0.255,b86cde726ba9684b78f883c176b12428c4d181e88684b777ade6f8bb0eeda22e
+score-5949647-01.mid,review,yes,431.6,2,1,1,0,0.026,34ec4cd2651218edc7213e2209b6470020cac57f5f80ed0158f675330edff649
+The Edge of Dawn Seasons of Warfare-01.mid,review,yes,334.4,2,2,4,3,0.119,9382307eebd5e800f42984ef56b14003d453f069486d7647d3cc11ea3b975d0a
+The Storm Brewed Inside-01.mid,review,yes,334.2,8,2,5,1,0.063,e68023901307dac8c480acfb16d04aff565ec5ff873d6a07f65789bae88280be
+34夢灯籠34 Dream Lantern-01.mid,rejected,yes,337.9,5,1,2,2,0.058,185d91e044e55c751d824b1522a8fca31124d4f15919371348a505a0c6c8035a
+Abacab-01.mid,rejected,yes,397.8,1,1,3,0,0.353,df6e66937b957afe7ba27491f9a8a4a28ac9b5f73f8e2a1cb49abfd5e8ebd2aa
+history of the entire world i guess-01.mid,rejected,yes,125.4,4,1,6,0,0.24,c6e3ad81e2c49868f58c3f0f487f5f69000e2f3f91b06fa9cc79a36deefba095
+Lingus-01.mid,rejected,yes,622.9,2,1,3,3,0.391,5420f260515af4c94c04fbe14e6bda5554f80fd21136bbea1ecec3219031350c
+Plastic Love-01.mid,rejected,yes,489.9,7,1,1,2,0.009,aae0ff03a8625d2628915042a4d180384d488511d25b5d15a906e5ca3b6e1dad
+Shofukan-01.mid,rejected,yes,342.7,1,1,2,2,0.078,9c56c00d45e9254c59d6a412a60e4185c21c253b4a4efb70d29d6b62cf3ad557
+The Court of the Crimson King-01.mid,rejected,yes,486.4,1,1,3,1,0.25,c7143da4dd3c0f1180bf0029dca89e58524707c6e263c1de6f41f547da2d0731
+The Final Coountdown-01.mid,rejected,yes,325.4,4,2,6,0,0.245,d741285be05849278bb37700b5d9005968f5456db0016120e197e1e50fe44335
+The Lamia-01.mid,rejected,yes,462.9,1,1,1,0,0.0,c34e52695c0d57b9ed46a3724e93ad78b841896a881b135ea94b0bc731816c20
+Trance Music For Racing Game-01.mid,rejected,yes,325.3,1,2,1,0,0.066,74fd20f25d8d85ea76bc641377b9f7d0624afd6417bbe379b85e123492ea7bd2
