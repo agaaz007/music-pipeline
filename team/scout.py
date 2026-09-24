@@ -19,6 +19,12 @@ ELECTRONIC = re.compile(r"\b(synth\w*|drum machine|drum group|electric piano|"
 ACOUSTIC = re.compile(r"\b(clarinet|oboe|bassoon|flute|piccolo|trombone|trumpet|"
     r"saxophone|sax\b|french horn|tuba|euphonium|cornet|violin|viola|cello|harp|"
     r"timpani|marimba|xylophone|glockenspiel|organ|choir|recorder|sousaphone)\b", re.I)
+# The approved samples each list a drum part, a bass part and a synth part.
+# Requiring all three in the listing's instrument list costs no downloads.
+ROLE_DRUMS = re.compile(r"\b(drum\w*|percussion|drumset|drum kit|808)\b", re.I)
+ROLE_BASS = re.compile(r"\b(bass guitar|electric bass|synth bass|bass synth\w*|"
+    r"fretless bass|bass)\b(?!\s*(?:clarinet|trombone|drum))", re.I)
+ROLE_SYNTH = re.compile(r"\b(synth\w*|sampler|electric piano)\b", re.I)
 COMP = re.compile(r"medley|mashup|full album|megamix|compilation", re.I)
 POOL = Path(__file__).resolve().parent / "pool.json"
 TERMS = ["future bass", "progressive house", "electro house", "dubstep", "trance",
@@ -36,6 +42,12 @@ def electronic_ratio(text):
     a = len({x.lower() for x in ACOUSTIC.findall(i)})
     return (e / (e + a)) if (e + a) else 0.0, i
 
+def roles(text):
+    """How many of drums, bass, synth the listed instruments cover (0-3)."""
+    i = instruments(text)
+    return sum(bool(r.search(i)) for r in (ROLE_DRUMS, ROLE_BASS, ROLE_SYNTH))
+
+
 def load_pool():
     try:
         return json.loads(POOL.read_text())
@@ -46,7 +58,7 @@ def held_ids():
     d = Path.home()/"Library/Application Support/MuseScore/MuseScore4/cloud_scores"
     return {p.stem for p in d.glob("*.mscz")}
 
-def run(rounds=99, per_round=3, min_ratio=0.6, min_parts=6):
+def run(rounds=99, per_round=3, min_ratio=0.4, min_parts=4):
     from jev_ultrafast import Agent
     from musescore_midi.discover import LISTING_JS, parse_candidates
     from musescore_midi.fetch import wait_for_page_ready
@@ -82,7 +94,10 @@ def run(rounds=99, per_round=3, min_ratio=0.6, min_parts=6):
                     ratio, ins = electronic_ratio(c.get("text") or "")
                     if ratio < min_ratio:
                         continue
-                    pool[c["id"]] = {**c, "ratio": ratio, "instruments": ins[:110]}
+                    r = roles(c.get("text") or "")
+                    if r < 3:
+                        continue
+                    pool[c["id"]] = {**c, "ratio": ratio, "roles": r, "instruments": ins[:110]}
                     fresh += 1
                 time.sleep(1.0)
         POOL.write_text(json.dumps(list(pool.values()), indent=1))

@@ -39,35 +39,25 @@ def held():
 
 
 def qualifying_hours():
-    """Hours of material that actually meets the synth-dominant bar."""
-    import collections
+    """Hours meeting the approved-sample bar: separate drum, bass and synth stems.
 
-    import mido
-    total = 0.0
-    for f in OUT.glob("*.mid"):
-        try:
-            m = mido.MidiFile(f)
-        except Exception:
-            continue
-        cp, nb = {}, collections.Counter()
-        for t in m.tracks:
-            for msg in t:
-                if msg.type == "program_change":
-                    cp[msg.channel] = msg.program
-                elif msg.type == "note_on" and msg.velocity > 0:
-                    nb[msg.channel] += 1
-        sn = tot = 0
-        for ch, c in nb.items():
-            if ch == 9:
+    Counted across every folder, because the old genre gates sent some
+    qualifying files to review/ and rejected/.
+    """
+    import hashlib
+
+    from musescore_midi.roles import qualifies
+    total, seen = 0.0, set()
+    for d in (OUT, OUT / "review", OUT / "rejected"):
+        for f in d.glob("*.mid"):
+            try:
+                ok, p = qualifies(f)
+            except Exception:
                 continue
-            p = cp.get(ch)
-            if p is None:
-                continue
-            tot += c
-            if p in SYNTH:
-                sn += c
-        if tot and sn / tot >= 0.5:
-            total += m.length
+            digest = hashlib.sha256(f.read_bytes()).hexdigest()
+            if ok and digest not in seen:
+                seen.add(digest)
+                total += p["seconds"]
     return total / 3600.0
 
 
@@ -78,7 +68,7 @@ def next_batch(size):
     except Exception:
         return []
     rows = [c for c in pool if c["id"] not in have]
-    rows.sort(key=lambda c: (-(c.get("ratio") or 0), -(c.get("seconds") or 0)))
+    rows.sort(key=lambda c: (-(c.get("roles") or 0), -(c.get("seconds") or 0)))
     return rows[:size]
 
 

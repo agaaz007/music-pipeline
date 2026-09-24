@@ -1,7 +1,7 @@
 """Coordinator: keeps scout and fetcher alive and reports progress to the goal.
 
 Progress is measured only in material that meets the buyer's bar -- files whose
-GM programs are predominantly synth -- because total hours collected proved a
+separate drum, bass and synth stems (the approved-sample bar) -- because total hours collected proved a
 misleading number: 12.96 h collected contained 3.0 h that qualified.
 """
 import subprocess
