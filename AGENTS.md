@@ -1,5 +1,8 @@
 # Jev Ultrafast
 
+> **Collecting MIDI?** Read [`TARGET.md`](TARGET.md) first: what qualifies, the buyer-approved
+> samples, what to skip, and which score IDs are already held.
+
 Read README.md before editing. Keep the loop small: page -> indexed elements -> operation + target -> execution.
 
 - The input is one natural-language goal. Do not add site-specific plans or hardcoded field values.

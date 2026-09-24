@@ -1,5 +1,8 @@
 # Running this pipeline on another Mac
 
+> **Collecting MIDI?** Read [`TARGET.md`](TARGET.md) first: what qualifies, the buyer-approved
+> samples, what to skip, and which score IDs are already held.
+
 Copying files gets you the code and its memory of what has already been
 collected. It does not get you the browser sessions, the MuseScore Studio
 login, or the macOS permissions — those are bound to the machine and must be
