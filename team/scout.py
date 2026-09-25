@@ -35,10 +35,17 @@ TERMS = ["future bass", "progressive house", "electro house", "dubstep", "trance
 # search matches titles, so it surfaces wind-band covers of EDM songs; these
 # list scores by their instruments instead. Measured on page 1: 12 of 20 rows
 # pass the three-role filter here, against 0-2 for a text search.
-BROWSE = ["https://musescore.com/sheetmusic/synthesizer?genres=16",
-          "https://musescore.com/sheetmusic/bass-guitar?genres=16",
-          "https://musescore.com/sheetmusic/synthesizer"]
-BROWSE_PAGES = 40
+# Browse pages use the /<instrument>/electronic path. "?genres=16" redirects there
+# and drops "&page=N", so every page read as page 1.
+# Every browse page is filtered to the Electronic genre. An unfiltered synthesizer page was once in
+# this list, and it filled the pool with rock bands that have a keyboard player
+# (Pink Floyd, Dire Straits, Genesis): they list drums, bass guitar and synth, so
+# the three-role filter alone cannot tell them from electronic music.
+BROWSE = ["https://musescore.com/sheetmusic/synthesizer/electronic",
+          "https://musescore.com/sheetmusic/drum-group/electronic",
+          "https://musescore.com/sheetmusic/bass-guitar/electronic",
+          "https://musescore.com/sheetmusic/electronic"]
+BROWSE_PAGES = 60
 CURSOR = Path(__file__).resolve().parent / "scout_cursor.json"
 
 
@@ -129,7 +136,8 @@ def run(rounds=99, per_round=3, min_ratio=0.4, min_parts=4):
                     r = roles(c.get("text") or "")
                     if r < 3:
                         continue
-                    pool[c["id"]] = {**c, "ratio": ratio, "roles": r, "instruments": ins[:110]}
+                    via = "electronic-genre" if "/electronic" in url else "edm-search"
+                    pool[c["id"]] = {**c, "ratio": ratio, "roles": r, "instruments": ins[:110], "via": via}
                     fresh += 1
                 time.sleep(1.0)
         POOL.write_text(json.dumps(list(pool.values()), indent=1))

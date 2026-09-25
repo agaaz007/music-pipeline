@@ -65,6 +65,16 @@ def qualifying_hours():
     return total / 3600.0
 
 
+REVIEW = Path(__file__).resolve().parent / "genre_review.json"
+
+
+def load_review():
+    try:
+        return json.loads(REVIEW.read_text())
+    except Exception:
+        return {}
+
+
 def next_batch(size):
     have = held()
     try:
@@ -74,7 +84,12 @@ def next_batch(size):
     from team.scout import roles
     # Older pool entries predate the three-role filter; score them the same way
     # so a download is never spent on a listing without drums, bass and synth.
+    # Genre is judged by a person or agent reading the title, recorded in
+    # team/genre_review.json. The Electronic listing still carries synth-pop and
+    # orchestral game music, and stems alone let rock bands through.
+    review = load_review()
     rows = [c for c in pool if c["id"] not in have
+            and review.get(c["id"], {}).get("verdict") == "keep"
             and (c.get("roles") or roles(c.get("text") or "")) >= 3]
     rows.sort(key=lambda c: -(c.get("seconds") or 0))
     return rows[:size]

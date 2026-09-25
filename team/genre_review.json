@@ -1,0 +1,2806 @@
+{
+ "1481391": {
+  "verdict": "keep",
+  "why": "Darude - Sandstorm",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5361474": {
+  "verdict": "keep",
+  "why": "Noisestorm - Crab Rave",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5926818": {
+  "verdict": "keep",
+  "why": "M83 - Midnight City",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "1352686": {
+  "verdict": "keep",
+  "why": "Jean-Michel Jarre - Oxygene IV",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "2427001": {
+  "verdict": "keep",
+  "why": "Jean-Michel Jarre - Equinoxe 5",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "1496856": {
+  "verdict": "keep",
+  "why": "Jean-Michel Jarre - Rendez-Vous 4",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6130717": {
+  "verdict": "keep",
+  "why": "Anamanaguchi - Miku",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7027254": {
+  "verdict": "keep",
+  "why": "Toby Fox - A CYBER'S WORLD? (electronic)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7482605": {
+  "verdict": "keep",
+  "why": "Lena Raine - Otherside",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7426514": {
+  "verdict": "keep",
+  "why": "MGMT - Little Dark Age (electronic/synth-pop)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6219174": {
+  "verdict": "keep",
+  "why": "Dadi Freyr - Think About Things (electronic)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5703058": {
+  "verdict": "drop",
+  "why": "a-ha - Take On Me: synth-pop band",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6262452": {
+  "verdict": "drop",
+  "why": "Tears for Fears: pop",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6549959": {
+  "verdict": "drop",
+  "why": "Tears for Fears - Shout: pop",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6256235": {
+  "verdict": "drop",
+  "why": "Major Tom: pop, brass/sax",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8395668": {
+  "verdict": "drop",
+  "why": "Toby Fox: orchestral game",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7093991": {
+  "verdict": "drop",
+  "why": "Toby Fox: acoustic",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6990320": {
+  "verdict": "drop",
+  "why": "Genshin: orchestral",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7649330": {
+  "verdict": "drop",
+  "why": "Undertale fan: orchestral",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5913697": {
+  "verdict": "drop",
+  "why": "Lemon Demon: acoustic pop",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5516254": {
+  "verdict": "drop",
+  "why": "Baldi: novelty",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6248436": {
+  "verdict": "drop",
+  "why": "Terraria Calamity: metal/orchestral",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "16812259": {
+  "verdict": "drop",
+  "why": "Mesmerizer: J-pop band",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6520857": {
+  "verdict": "drop",
+  "why": "Minato Aqua: J-pop",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6247336": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Its Been so Long",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5905652": {
+  "verdict": "keep",
+  "why": "Air (French electronic)",
+  "title": "Air - La femme d'argent",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5698766": {
+  "verdict": "keep",
+  "why": "Daft Punk",
+  "title": "VERIDIS QUO - Daft Punk",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8132541": {
+  "verdict": "keep",
+  "why": "Kraftwerk",
+  "title": "Das model – Kraftwerk (The Model)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6883444": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Save your Tears (ft. Ariana Grande) - The Weeknd",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7827263": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Radiohead - Pyramid Song (full score) [WIP]",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6257746": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "UNIVERSAL COLLAPSE | Terraria Calamity Mod Music - Theme of ",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "2605651": {
+  "verdict": "keep",
+  "why": "Pet Shop Boys (electronic duo)",
+  "title": "Pet Shop Boys - It's a Sin",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6844255": {
+  "verdict": "keep",
+  "why": "Undertale CORE (electronic)",
+  "title": "CORE - Undertale",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "2402931": {
+  "verdict": "keep",
+  "why": "Avicii",
+  "title": "Wake me up - AVICCI [The BEST version + lyrics]",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "17984959": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Espresso – Sabrina Carpenter",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6642517": {
+  "verdict": "keep",
+  "why": "Alan Walker",
+  "title": "Darkside - Alan Walker",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6126016": {
+  "verdict": "drop",
+  "why": "same song: second Tong Poo arrangement",
+  "title": "Tong Poo 東風 Arrangement - YMO",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6549955": {
+  "verdict": "drop",
+  "why": "same song: Nightcall already in delivery",
+  "title": "Nightcall - Kavinsky -",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6522929": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Tame Impala - Borderline [Album Version]",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "2993836": {
+  "verdict": "keep",
+  "why": "Jean-Michel Jarre - Revolutions",
+  "title": "Revolution Industrielle Part 1-2-3",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "11774737": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "云宫迅音 – 许镜清 （西游记序曲）",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6903049": {
+  "verdict": "keep",
+  "why": "Avicii",
+  "title": "The Nights - Avicii",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "9751453": {
+  "verdict": "keep",
+  "why": "Jean-Michel Jarre",
+  "title": "Magnetic Fields 2 – Jean-Michel Jarre",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8158095": {
+  "verdict": "keep",
+  "why": "Jean-Michel Jarre",
+  "title": "Equinoxe 7 – Jean-Michel Jarre",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6685581": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "God Race – Metaroom",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5103351": {
+  "verdict": "keep",
+  "why": "Alan Walker",
+  "title": "Faded Revamped",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6473371": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Sweet Bod - Lemon Demon (Neil Cicierega)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6228432": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Profaned Radiance(Empress of Light & Unholy Insurgency Remix",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5281682": {
+  "verdict": "keep",
+  "why": "Vangelis",
+  "title": "CHARIOTS OF FIRE- Vangelis",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7577993": {
+  "verdict": "keep",
+  "why": "Jean-Michel Jarre",
+  "title": "Equinoxe, Pt. 4 – Jean-Michel Jarre Equinoxe 4 - Jean Michel",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5321604": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Aquatic Ambience - Donkey Kong Country",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5766234": {
+  "verdict": "keep",
+  "why": "Avicii",
+  "title": "Levels - Avicii (instrumental mix)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6148975": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "sanctuary | Terraria Calamity Mod Music - Theme of the Sunke",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6572757": {
+  "verdict": "drop",
+  "why": "same song: Fable already in delivery",
+  "title": "Robert Miles - Fable (Dream Version) (DJ O.J.C.)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6615812": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Scourge of the Universe and Universal Collapse(Calamity Mod ",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8422697": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Vangelis - 1492: Conquest of Paradise - Accompagnement pour ",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "17263528": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "War Without Reason – Heaven Pierce Her 7-4 Ultrakill",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5937274": {
+  "verdict": "keep",
+  "why": "Martin Garrix",
+  "title": "Animals - Martin Garrix",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "11793391": {
+  "verdict": "drop",
+  "why": "same song: Blue Monday already in delivery",
+  "title": "Blue monday – New Order",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "9521155": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "They Might As Well Be Dead – Chris Christodoulou (Risk of Ra",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6484439": {
+  "verdict": "keep",
+  "why": "TheFatRat",
+  "title": "TheFatRat, Slaydit & Anjulie - Stronger",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6481711": {
+  "verdict": "keep",
+  "why": "Lena Raine (Celeste, electronic)",
+  "title": "Celeste - Mirror Temple Mix (A and B side) - Lena Raine and ",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "2651101": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Calypso Part 1 unfinished",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6882210": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "The Smile Song - Mary Sue Brock",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7327007": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Step by Step – KARUT (Blue Archive)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5538417": {
+  "verdict": "keep",
+  "why": "Safri Duo",
+  "title": "Safri duo played alive",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6227952": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "The Filthy Mind | Terraria Calamity Mod Music - Theme of the",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7303988": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Sphere – Creo (Jazz band arrangement)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5638638": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Nine Inch Nails - Terrible Lie (full score)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6327667": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Hakushi Hasegawa - Somoku (草木)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6675666": {
+  "verdict": "keep",
+  "why": "Propellerheads (big beat)",
+  "title": "History Repeating – Propellerheads",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6187140": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Fly of Beelzebub(Terraria Calamity OST)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6541009": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Happy Days — GHOST",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "4324186": {
+  "verdict": "keep",
+  "why": "Jean-Michel Jarre",
+  "title": "Chronologie 4",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6144988": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Starmachine2000 (Transcription)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6221491": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Stickerbrush Symphony (Bramble Blast) Super Smash Bros. Braw",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6148692": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Its Not Living (If It's Not With You) - The 1975",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6237834": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Antarctic Reinforcement (Structured Mix) | Terraria Calamity",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5607760": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Everybody Wants to Rule the World",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6512178": {
+  "verdict": "keep",
+  "why": "Massive Attack (trip-hop)",
+  "title": "Paradise Circus by Massive Attack;",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6065891": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Sprawl II (Mountains Beyond Mountains) by Arcade Fire",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7640396": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "LOST迷",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "12434467": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "ORDER (ULTRAKILL P-1 Theme #2) – Heaven Pierce Her  (Updated",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7036186": {
+  "verdict": "keep",
+  "why": "Kebu (synth)",
+  "title": "Perplexagon Part 3 – Kebu",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "23789368": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "How to Disappear Completely by Radiohead (Full Transcription",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6918592": {
+  "verdict": "drop",
+  "why": "same song: second Levels arrangement",
+  "title": "Levels by Avicii",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "4913389": {
+  "verdict": "keep",
+  "why": "Alan Walker",
+  "title": "Alan Walker - All Falls Down",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6174685": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Outcast of the Sulphurous Seas | Terraria Calamity Mod Music",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7094193": {
+  "verdict": "keep",
+  "why": "OMORI (electronic OST)",
+  "title": "OMORI OST - 040 You Were Wrong. Go Back. – Jami Lynne",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "9861664": {
+  "verdict": "keep",
+  "why": "Jean-Michel Jarre",
+  "title": "Chronologie Part 2 - Jean-Michel Jarre",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6845197": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Training Tunnel Galaxy: The Enhanced Good Egg Galaxy | Super",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "11501062": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Money for Nothing | Dire Straits W.I.P. Transcription",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5759041": {
+  "verdict": "keep",
+  "why": "Stromae (electronic dance)",
+  "title": "Alors on Danse - Stromae",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5903732": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "The Weeknd - Wicked Games",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "2980281": {
+  "verdict": "keep",
+  "why": "TheFatRat",
+  "title": "TheFatRat - Jackpot",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6332866": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Left Alone | Terraria Calamity Mod Music - Theme of the Brim",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "13531111": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Young Girl A – siinamota Young Girl A",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6217989": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Infernal Catharsis(Rebirth)(Terraria Calamity OST)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6793946": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Moonlight Sonata 3rd Movement",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6609301": {
+  "verdict": "keep",
+  "why": "YMO",
+  "title": "Tong Poo 東風 - Public Pressure Arrangement - YMO",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "2666296": {
+  "verdict": "keep",
+  "why": "Jean-Michel Jarre",
+  "title": "Chronologie VI",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6331978": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Sommarfågel",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6352417": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Thé à la Menthe - La Caution",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "22446430": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "\"Let's have A Fun Time!\" A Sprunki Retake Mix",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "9072020": {
+  "verdict": "keep",
+  "why": "Lena Raine (Celeste, electronic)",
+  "title": "Farewell – Lena Raine from Celeste (Maybe the best?)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7010391": {
+  "verdict": "drop",
+  "why": "same song: Children already in delivery",
+  "title": "Children – Robert Miles",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7910267": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "An Enigmatic Encounter REMASTERED (COVER)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "4792631": {
+  "verdict": "keep",
+  "why": "YMO",
+  "title": "Yellow Magic Orchestra - Behind The Mask",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "9882271": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Echoes - Pink Floyd",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "13102879": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Press Start – MDK",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6704508": {
+  "verdict": "keep",
+  "why": "Lupus Nocte (electronic)",
+  "title": "Howling – Lupus Nocte",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6185351": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Fly of the Beezlebub | Terraria Calamity Mod Music - Theme o",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8126223": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Hollow Echoes 虚",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "3285376": {
+  "verdict": "keep",
+  "why": "Kraftwerk",
+  "title": "SPACELAB",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6652012": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "【DAICON IV OP】【Twilight】",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6206259": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Toxic Wisdom | Terraria Calamity Mod Music - Theme of The Ol",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7128243": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Puppy Princess",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8538587": {
+  "verdict": "keep",
+  "why": "Rain World (electronic OST)",
+  "title": "Shoreline Threat - Rain World",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5362179": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Open Frenzy | Terraria Calamity Mod Music - Theme of the Rav",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "13653955": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "No Quarters (Chirpy Chips) [Counter Stop (ABXY)] - Splatoon ",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "9017006": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Broken wings – Mr. Mister Broken Wings_Mr. Mister",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7846040": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "What Lies Beneath the Mask 瞞.",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5322708": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Celestial Resort (Good Karma Mix)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8891928": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Kygo - Freeze",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6601909": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Alan Walker- The Spectre NOT IN PIANO",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8697414": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Doors OST (All) – LSPLASH Doors OST",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5501899": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Darkest Hour - SEVDALIZA",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "21970591": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Like Him - Tyler, The Creator [EXPLICIT]",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6361857": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "F - 777 - Ludicrous Speed",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6689103": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "The Perfect Kiss – New Order",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8922612": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Longshot Launch (Treetop Rock Returns) - Donkey Kong Country",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "9002363": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Tokyo Teddy Bear – Neru (押入れP) 東京テディベア feat. Kagamine Rin",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7530827": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Join Us For a Bite – JT Music",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7091265": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Papercut - Linkin Park",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6871617": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Psychokinesis(200 FOLLOWER SPECIAL!!!!)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6347692": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "TheFatRat & AleXa - Rule the World",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "11749330": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "3DS Rosalina's Ice World - Mario Kart 8 Remix",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "12767839": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Altars of Apostasy (incl. \"Hall of Sacreligious Remains\") – ",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "9081287": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "BTS – Dynamite",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6156114": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Interstellar Stomper(Terraria Calaimty OST)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6438596": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "La la la - Naughty Boy feat Sam Smith",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "10751272": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Catastrophic Fabrications – PinpinNeon | Terraria Infernum O",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6414040": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Spyro 2: Ripto's Rage Title & Glimmer Theme",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6773343": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Burning Up For You – Initial D",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7886102": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Frank Zappa - Night School",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7955459": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Savage – aespa (에스파)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6536934": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Grimoire of Fate(Remix of two original tracks)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6136857": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Feral Amalgamation(Terraria Calamity OST)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6040714": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Solar Sect of Mystic Wisdom ~ Nuclear Fusion (Touhou) (violi",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8568965": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "A Real Hero – College & Electric Youth (from Drive)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5673921": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Papaoutai - Stromae",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5624903": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "TheFatRat - Time Lapse (arrangement)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8375730": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Reality Check Through The Skull",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5993450": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Tong Poo",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "15784174": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Insane – Black Gryph0n, Baasik",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "13642591": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Relic (Minecraft) - Aaron Cherof",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6702625": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Générique - La Soupe Aux Choux",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6588824": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Wake Me Up - Avicii",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5362163": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Feral Amalgamation | Terraria Calamity Mod Music - Theme of ",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6146539": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Calamity Mod Music - Hadopelagic Pressure",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "19054879": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Charli xcx - Sympathy is a knife",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5321896": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Lower Brinstar - Super Metroid",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "9562696": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Six trillion years and overnight story – kemu (Japan) 【IA】六兆",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6144777": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Pest of the Cosmos(Terraria Calamity OST)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "11359624": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Six trillion years and overnight story – kemu (Japan) (with ",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6190016": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "TheFatRat - Electrified",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "11749189": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "地球最後の告白を – Kemu /The Earth's Final Confession 【プロセカ】/(projec",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6754220": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Braniac Maniac – Plants Vs. Zombies",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "16160044": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Hear! The Siren Song Call of Death – Heaven Pierce Her  Ultr",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "12092560": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Aquasonic (H2Whoa) - Splatoon 3",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "14870854": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "The Fine Print – The Stupendium",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5653898": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Cheese Land GBA (inspired by Mario Kart 8)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "9236686": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Tori no Uta - Air – Shinji Orito full ver.鳥の詩(フルサイズ)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "11502406": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Labyrinthine – Lena Raine",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7685057": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Power of NEO – Toby Fox",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6726395": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Sweet Dreams (Are Made of This) – Eurythmics",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7327160": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Frosty Fruits [Wintendo Holiday Special #3] - Donkey Kong Co",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "10967554": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Ura-omote Lovers – wowaka ft. Hatsune Miku/裏表ラバーズ – wowaka f",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "3581976": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Grand Theft Auto: The Ballad of Gay Tony - Pjanoo (Radio Edi",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6736938": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Want To Hug You - Adaddy Haite",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6069569": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "TheFatRat - Mayday (ft. Laura Brehm)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7803065": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Haddaway - What Is Love  (Arr. AlmaDev)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5947135": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Bangarang (ft. Sirah) - Skrillex",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6310423": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Yellow Magic Orchestra - The End of Asia Arrangement",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6513605": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "TheFatRat & Phaera - Sunlight",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8607866": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Escape From New York Theme - John Carpenter and Alan Howarth",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "9868204": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Noushou Sakuretsu Girl – rerulili /脳漿炸裂ガール - れるりり",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "11931370": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Miguel-Mateos-Cuando-Seas-Grande",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "26066866": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Invisible – Duran Duran",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6494870": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "DAGames - I Am Me Recreation",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7759700": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Everybody Wants to Rule the World – Tears for Fears",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "15073288": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Blade runner theme – Vangelis Blade Runner Theme – Vangelis",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6110984": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Without You - Avicii (general)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "10062490": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Teddy Bear – STAYC",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7017644": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "FNAF World - Melt Boss",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7492607": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Dagothwave – Youngscrolls",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5527826": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "When You Die - MGMT Arrangement",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "11820589": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Luka Luka Night Fever – Samfree 巡音ルカ「ルカルカ★ナイトフィーバー」【オリジナル曲】",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "20661730": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Stuck Inside – Black Gryph0n",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "15079672": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Duel (Versus Reprise) – Heaven Pierce Her  4-4 Ultrakill, V2",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6521457": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "TheFatRat - Never Be Alone",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6604141": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "TheFatRat - Unity",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "9387946": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "King's Court (from Project Wingman) – Jose Pavli",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8262287": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Not A Slacker Anymore",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8271461": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Undertale Last Breath - An Enigmatic Encounter (Nickolas Mix",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "9918028": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Blue bird – Ikimono-Gakari /ブルーバード - いきものがかり updated on 10/4",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6813984": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Snowland (SF Third Strike)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "19204978": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Revolution Industrielle Ouverture - Jean-Michel Jarre",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7087027": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Dream of Peace – AnthemOverload",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "11308057": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Vangelis Pulstar",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6820470": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "The Slaughter Continues - Benlab",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7484594": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "My Body Is a Cage – Arcade Fire",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "9463000": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "フィクサー(fixer) – Nulut ぬゆり Official 【プロセカ】(project sekai) full",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "14874748": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Deep Blue – Heaven Pierce Her  5-1 Ultrakill (WIP)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "11496433": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Oxygene, Pt. 10 – Jean-Michel Jarre",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6771933": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Rhythm Heaven DS - Fillbots 2",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6250716": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Made of Steel(Remake)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7291376": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Beautiful James – Placebo",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7674518": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Meathook",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "26262346": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "IT’S!! TV!! TiME!!! (5-Piece Band Arrangement)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6546741": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "TheFatRat & AleXa (알렉사) - Rule The World",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7621463": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Kygo & Imagine Dragons - Born To Be Yours",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "9005819": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "(Unused) Shitno - Adam McHummus, The Innuendo, Saster",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "10632202": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Black Panther – Crystal Castles",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "9017054": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Stereo love – Edward Maya Stereo Love – Edward Maya",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "22243075": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, jazz, orchestral or metal game music, or unknown)",
+  "title": "Undertale: Call of The Void - Phase 3a: one left.",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "14660575": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Versus – Heaven Pierce Her  Ultrakill 1-4 Act 1: Infinite Hy",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "9402160": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Taisho Roman  – YOASOBI 大正浪漫(WIP)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6014098": {
+  "verdict": "keep",
+  "why": "Frank Klepacki (electronic/industrial)",
+  "title": "Act On Instinct by Frank Klepacki from Command & Conquer",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6820160": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Neptunian Diamond Rain",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "12751216": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Electricity – Orchestral Manoeuvres in the Dark (OMD) | Orch",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "14707624": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "UltraChurch.mp3 – MASTER BOOT RECORD Cyber Grind, Ultrakill",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "19641406": {
+  "verdict": "keep",
+  "why": "Charli xcx (club/electronic)",
+  "title": "Charli xcx - B2b",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "26102668": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "The Only Thing They Fear Is You – Mick Gordon (Arr. by Gabri",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "20122129": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "NH22 - Isolation",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7008996": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "suspend – jaci",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7012349": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Field of Hopes and Dreams – Toby Fox",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7028867": {
+  "verdict": "keep",
+  "why": "Noisebomb (EDM)",
+  "title": "NOVA-M.Ibarra JR (Noisebomb)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7030080": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "In circles - Creo",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "15431962": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Stickerbush Symphony – Donkey Kong Country 2",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "29742350": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "MaelouX - Nuke powder",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "9934435": {
+  "verdict": "drop",
+  "why": "same song: Wake Me Up already approved",
+  "title": "Wake me up – Avicii (Remastered With Musesounds)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "19678855": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "The Death of God's Will Ultrakill: 6-2 Gabriel#2 Theme – Hea",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "9834304": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Lo malo de ser bueno – El Cuarteto de Nos Instrumental",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "21010561": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Europ - The Final Countdown - Accompagnement pour trompette ",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "4982921": {
+  "verdict": "keep",
+  "why": "New Order",
+  "title": "Bizarre Love Triangle",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "15085519": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Lurie - Rigël Theatre",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "10037074": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "One Night in Bangkok: Murray Head, \"From CHESS\"",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7750130": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Despair Searching Jazz Arrangement",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8009180": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Nine Drive ~Koyanskaya's strange story~ - Fate/Grand Order",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8406704": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Battle Against A True Hero",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "10255213": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Hot Damned (Ch 4: Hell Light World) - Danny Baranowsky | Sup",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7122318": {
+  "verdict": "keep",
+  "why": "M83",
+  "title": "M83 - I Need You",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "18135436": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Maybe Man - AJR (Full Transcription)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5369139": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Car Radio Twenty One Pilots Full Transcription (Instrumental",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5383534": {
+  "verdict": "keep",
+  "why": "Skrillex",
+  "title": "Summit (ft. Ellie Goulding) - Skrillex",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "19428859": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Kimi Wa Hurricane – T-Square (full arrangment)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8883369": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Time Machine – 40meterP 【初音ミク(1640㍍)】 タイムマシン 【オリジナル】(full ve",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "9183561": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Echo – Vocaloid 【Gumi English】",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "10949794": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Blood Moon (for Mixed Ensemble)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "15432979": {
+  "verdict": "keep",
+  "why": "Depeche Mode",
+  "title": "Depeche Mode - Just Can't Get Enough",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5343324": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Kero Kero Bonito - Flamingo",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6642547": {
+  "verdict": "keep",
+  "why": "Marshmello",
+  "title": "Here With Me - Marshmello",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6660639": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Breath of the Wild (Original)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6811419": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Ginger Island – ConcernedApe",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7468376": {
+  "verdict": "keep",
+  "why": "Sonic 2 (chiptune/electronic)",
+  "title": "Chemical Plant Zone",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "11777722": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "RtDL003T Planet Popstar – Jun Ishikawa",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8752704": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Erasure_-_A_Little_Respect VOCALOID",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8585273": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Plastic beach – Gorillaz Plastic Beach Drums 1",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "10433179": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "群青 – YOASOBI 歌詞付き / Gunjou with lyrics",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "10130566": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "In Circles - Darren Korb | Transistor OST",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "10890004": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Pizza Engineer / Peppino's Sauce Machine - Mr. Sauceman | Pi",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "10944160": {
+  "verdict": "keep",
+  "why": "Kraftwerk",
+  "title": "Kraftwerk Radioaktivitaet",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6642528": {
+  "verdict": "keep",
+  "why": "Zedd",
+  "title": "Happy Now - Zedd",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6723898": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Shy Away – Twenty One Pilots",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "13163329": {
+  "verdict": "drop",
+  "why": "same song: second Bizarre Love Triangle",
+  "title": "Bizarre love triangle – New Order Bizarre Love Triangle",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "23275144": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Shiguma no Otoko  死熊の男 (sigma boy remix) – ycchan235",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8395329": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "credits song for my death",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6176328": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "She Works Out Too Much",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7813430": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Waka Waka Instrumental Mix - Amphibia Cultural Legacy",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "22513066": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Save a prayer – Duran Duran",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "9043355": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Roshin Yuukai – Iroha(sasaki) 炉心融解(Meltdown)【feat.鏡音リン】(feat",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8942498": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Rolling Girl – wowaka 初音ミク　オリジナル曲　「ローリンガール」transcription",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "23935258": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "TOP GUN ANTHEM - MELODY AND CHORDS",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6852446": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Perpetuum - Piano Solo TRANSCRIBED",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7040459": {
+  "verdict": "keep",
+  "why": "Friday Night Funkin' (electronic)",
+  "title": "Expurgation - JADS, Rozebud, & Banbuds (Friday Night Funkin'",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "14665015": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Tell Your World – kz(livetune) 初音ミク",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "32875535": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Wrong Side Out – CG5",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7082155": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Calliope – Hodges, Sean (Cheshyre)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7918766": {
+  "verdict": "keep",
+  "why": "Gryffin",
+  "title": "You Were Loved (ft. OneRepublic) - Gryffin",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6906500": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Plants vs Zombies 2 - Ancient Zgypt",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "15417427": {
+  "verdict": "keep",
+  "why": "F-777 (EDM)",
+  "title": "Dark Dragon Fire – F-777 F-777 - Dark Dragon Fire",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6799622": {
+  "verdict": "keep",
+  "why": "Friday Night Funkin' mod (electronic)",
+  "title": "Vs. Lucas Suite Week 1 (Friday Night Funkin' Lucas Mod OST)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "24099400": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Dead Heat Pulse Ultrakill (0-E: Part 2) (WIP) – Heaven Pierc",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8947898": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Lost One no Goukoku – Neru (押入れP) Lost One's Weeping「ロストワンの号",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "9916147": {
+  "verdict": "keep",
+  "why": "Kebu (synth)",
+  "title": "Discovering Utopia – Kebu",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "12698974": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Sharks - Imagine Dragons | Mercury - Act. 2",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6273215": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "DKC2StickerbushSymphonyv2",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7536950": {
+  "verdict": "drop",
+  "why": "same song: Megalovania already in delivery",
+  "title": "Megalovania – Toby Fox (Undertale)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6273224": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "DKC - Aquantic Ambiance",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "9445123": {
+  "verdict": "keep",
+  "why": "Tangerine Dream",
+  "title": "Poland - Tangerine Dream",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "12305395": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "ロミオとシンデレラ / Romeo to Cinderella – doriko",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7642094": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Road to O-Zone",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5409006": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Terraria Calamity Mod Music - \"Raw, Unfiltered Calamity\" - T",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "14955865": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Zectroi, Zini, and Ziathoru (Remake) - SGX UST",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8320508": {
+  "verdict": "drop",
+  "why": "same song: Megalovania already in delivery",
+  "title": "Undertale OST (Track 100) - Megalovania",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8659767": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Splatoon 3 - Pour It On - Missing Ink",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "10239460": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Snow halation – μ’s 歌詞付き/『ラブライブ!』μ's 2ndシングル表題曲 updated on 3",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "11765866": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Beach Theme - New Super Mario Bros. Wii – Koji Kondo (Day)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6994546": {
+  "verdict": "keep",
+  "why": "Camellia",
+  "title": "ゲーミング☆Everything – かめりあ",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7542962": {
+  "verdict": "keep",
+  "why": "Tobu (EDM)",
+  "title": "Impossible Remix: Tobu - Sunburst",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7767731": {
+  "verdict": "keep",
+  "why": "MGMT (electronic)",
+  "title": "Kids – MGMT",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "25636702": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Cosmic Disgust – DM DOKURO | Terraria Calamity OST",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "14222098": {
+  "verdict": "keep",
+  "why": "Depeche Mode",
+  "title": "Enjoy the silence - Depeche Mode",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "14950651": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "No More Deals",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5354392": {
+  "verdict": "keep",
+  "why": "Skrillex",
+  "title": "Scary Monsters and Nice Sprites - Skrillex",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6285810": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Kronos",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6347900": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Freaking Out",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7001121": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Difficult Boss Battle (For Sept. 2021 Video Game Workshop Ch",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6879618": {
+  "verdict": "keep",
+  "why": "YMO",
+  "title": "Technopolis Arrangement 「テクノポリス」（編曲） YMO 『Solid State Survi",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6916655": {
+  "verdict": "keep",
+  "why": "Avicii",
+  "title": "SOS by Avicii",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "11702878": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Sudno – Molchat Doma Судно - Molchat Doma",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "10205089": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "夜に駆ける (Yoru ni Kakeru) – YOASOBI 【Project Sekai/プロセカ】",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "23868271": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Hit me – Dirty Loops",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "26352493": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Wii U Super Bell Subway - Mario Kart World",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8619032": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "In The Deep Woods – ConcernedApe",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8432351": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Weird Part Of The Night",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5336893": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "The 1975 - I Always Wanna Die (Sometimes)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6195988": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Terraria Calamity Mod Music | Raw, Unfiltered Calamity | The",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6948482": {
+  "verdict": "keep",
+  "why": "YMO",
+  "title": "「過激な淑女」(Kageki na Shukujo) - Yellow Magic Orchestra - Arrang",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "11336635": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "MILGRAM / Muu - After Pain (アフターペイン) – DECO*27",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7037109": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "[ Artificial World : Artificial Heart ] Please use Youtube A",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "16145959": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "STYX HELIX (re:zero)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "23793472": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Hades II - The Titan of Time (Phase 1) - Darren Korb",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "32855795": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Night Terror - Reprise – Alittlesparkl",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6371279": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Heartless The Weeknd",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6494924": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "DAGames - Ambush Recreation (Newer Fixed Version In Descript",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7318448": {
+  "verdict": "keep",
+  "why": "Avicii",
+  "title": "True Believer – Avicii",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "29763467": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "The Third Sanctuary 1:1 Recreation – Toby Fox",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "14955487": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Baldi's Basics (You're Mine) – DAGames (lyrics included)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6855999": {
+  "verdict": "keep",
+  "why": "David Guetta",
+  "title": "Dangerous - David Guetta",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "9519331": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "The Sun Can Bend an Orange Sky (summer) – Stardew Valley",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "9896713": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Digimon - butterfly – Misc Cartoons /デジモンアドベンチャー OP(WIP)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "10025284": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Return to Slime – DM DOKURO transcribed by LordKoopus",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "12705826": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Treasures Within the Abomination – DM DOKURO",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6823937": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "A Music Assignment",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8892600": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Electric Angel – Yasuo-P --れくとりっく・えんじぇぅbyヤスオP-Featuring Hats",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6064073": {
+  "verdict": "drop",
+  "why": "same song: Jackpot already approved",
+  "title": "TheFatRat - Jackpot",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6915433": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Forest of Stone Angels",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7125074": {
+  "verdict": "keep",
+  "why": "Kygo",
+  "title": "Carry On – Kygo ft. Rita Ora",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7798052": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Eetlehun Tides",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8831835": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "The Humbling River – Puscifer",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "19836043": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Random Song 1",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "32956376": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Just The Way You Are - Milky (Low cortisol meme song)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "26164771": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Diptera Sonata / Basement (The Binding of Isaac: Rebirth) – ",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "26239168": {
+  "verdict": "keep",
+  "why": "Crystal Castles",
+  "title": "Vietnam – Crystal Castles",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8154681": {
+  "verdict": "keep",
+  "why": "Stranger Things theme (synth score)",
+  "title": "Stranger Things Theme – Michael Stein and Kyle Dixon",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "9368032": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Digimon - brave heart – Misc Cartoons 宮崎歩 (full ver.)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7172148": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Laplus Darkness Stream/Loading BGM – Osanzi",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "11308165": {
+  "verdict": "keep",
+  "why": "Vangelis",
+  "title": "Vangelis Dervish D",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5562303": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Stardew Valley OST - Mines (Marimba of the Frozen Bone)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "5929419": {
+  "verdict": "drop",
+  "why": "same song: Midnight City already approved",
+  "title": "Midnight City - M83",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8199848": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "The Last Breath (UT: LB Intro Theme)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "10171918": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "スイートマジック (Sweet Magic) – Junky ×ろん",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "15066787": {
+  "verdict": "keep",
+  "why": "Kraftwerk",
+  "title": "Autobahn - Kraftwerk",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "23687428": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "The Expanding Sun ~ORT 1~ - Fate/Grand Order",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "32197349": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Human - Flavor Foley ft. SF-A2 Miki, Orchestral Arrangement ",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "35210819": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Eternity – DanielH27",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "6439084": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Toil & Trouble (Boss 1) - Ikenfell",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "23100799": {
+  "verdict": "keep",
+  "why": "Throttle (EDM)",
+  "title": "Bloom – Throttle",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "23395453": {
+  "verdict": "keep",
+  "why": "Cosmograph (electronic)",
+  "title": "COLORLESS (feat. Sunnie) – Cosmograph | GODDESS OF VICTORY :",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "23915215": {
+  "verdict": "keep",
+  "why": "Jean-Michel Jarre",
+  "title": "Chronologie, Part 1 – Jean-Michel Jarre",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "26382223": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Turn The Lights Off - Tally Hall",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "27870370": {
+  "verdict": "keep",
+  "why": "Nine Inch Nails (TRON: Ares)",
+  "title": "As Alive As You Need Me To Be (From TRON: Ares) – Nine Inch ",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "10949884": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Never Lost, Only Found – Bo-Bo. T",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "22909357": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Bones & More Bones",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "14135293": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "FLOWEY – RENREN \"Flowey\" // DELTATRAVELER",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "25822153": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "BFG Division - Mick Gordon (Arr. by Gabriel Thompson)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "12856636": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Twilight Techno – Dimrain47",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "21243631": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Whatever - Kygo, Ava Max",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7106552": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Megalovania – Toby Fox V3",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "26896264": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "The Cybergrind – FantomenK & meganeko; Ultrakill Soundtrack ",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "7415855": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Time Alone With You",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8100834": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Summon The Choir – Aviators (Updating)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "12816031": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "F-777 - Dark Dragon Fire",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "11679976": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Summer Splash - Dan Mason",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "17495800": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Cosas imposibles – Gustavo Cerati",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "25816336": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Alone | MARIO'S MADNESS V2 – RedTV53",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "11692522": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Sports men – Haruomi Hosono Sports Men – Haruomi Hosono Spor",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "32507387": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Randomosity 4 – ThePython10110",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "13916032": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Nuclear Monsoon – PinpinNeon | Terraria Calamity OST",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "20721364": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "wasteland – DM DOKURO | Terraria Calamity OST",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "25801654": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "True Faith – New Order",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8802348": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "We'll Be Coming Back (ft. Example) - Calvin Harris",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "9144933": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Skyclad no Kansokusha – Itou Kanako スカイクラッドの観測者-いとうかなこ-5pb.✖",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "9437752": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Woke Up in Love - Kygo, Gryffin & Calum Scott",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "11260897": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Body and Mind – girl in red",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8053632": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Urgently Jammin' – Domalomn",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8132289": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "The Slaughter Continues (OLD V2)",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8408462": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Bad Apple!! – nomico /Alstroemeria Records",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "8595809": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Swear – Casiopea Swear – Issei Noro",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "32439419": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Zygarde 100% Battle Theme – Pokémon Legends ZA",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "1052341": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Terraria Boss #1",
+  "by": "claude",
+  "at": "2026-09-25"
+ },
+ "20724031": {
+  "verdict": "drop",
+  "why": "not clearly electronic/EDM (rock, pop, J-pop/vocaloid, jazz, orchestral or metal game music, or unknown)",
+  "title": "Midwest Indigo - Twenty One Pilots (Full Transcription)",
+  "by": "claude",
+  "at": "2026-09-25"
+ }
+}

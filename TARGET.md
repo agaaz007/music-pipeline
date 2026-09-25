@@ -90,6 +90,37 @@ Also fails:
 **Genre tags are not enough.** Many scores tagged *Electronic* on
 musescore.com are orchestral arrangements. Judge by instruments, never by tag.
 
+### Genre: electronic music and EDM only (added 2026-09-25)
+
+The stems rule in §2 does **not** check genre, and rock bands pass it: they
+have drums, bass guitar and a keyboard player. The 2026-09-24 delivery
+contained Pink Floyd, Dire Straits, Genesis, Dream Theater, Tool, AC/DC,
+Queen, Elton John and others this way. All of them are excluded.
+
+- **Keep:** EDM (house, trance, dubstep, future bass, big room, drum and
+  bass), synth-driven electronic music (Jean-Michel Jarre, Kraftwerk, Vangelis,
+  Tangerine Dream, YMO, Depeche Mode, New Order, Daft Punk, M83, Crystal
+  Castles, Massive Attack, Air), and electronic game soundtracks (Celeste,
+  Minecraft/C418, Undertale's electronic tracks, Friday Night Funkin', Sonic).
+- **Drop:** rock, metal, prog, pop, synth-pop *bands* (a-ha, Tears for Fears,
+  Duran Duran), jazz, disco, hip-hop, K-pop/J-pop/vocaloid, classical, and
+  orchestral or metal game music (Terraria Calamity, Ultrakill, Genshin).
+- **Test:** would a producer make it with synths and programmed drums in a DAW,
+  or would a band play it on guitars and a drum kit? Only the first qualifies.
+- **One arrangement per song.** Two arrangements of the same composition count
+  once.
+
+**Every candidate needs a recorded verdict before any download is spent.**
+`team/genre_review.json` maps score id → `{verdict: keep|drop, why, title}`.
+`team/fetcher.py` downloads only ids marked `keep`. Review titles in the pool
+and add verdicts; never bypass this file.
+
+**Crawl only Electronic-genre pages**, via the `/sheetmusic/<instrument>/electronic?page=N`
+paths in `team/scout.py → BROWSE`. `?genres=16` redirects there and drops the
+page number, so every page reads as page 1. An unfiltered
+`/sheetmusic/synthesizer` page is what brought in the rock bands. Use
+`uv run browser-harness < team/crawl.py` to crawl; the Jev-agent scout hangs.
+
 ## 5. Finding candidates cheaply (before spending a download)
 
 MuseScore allows **20 downloads per account per day**, so filter before
